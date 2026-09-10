@@ -18,8 +18,8 @@ const MAINTENANCE_FORCED = import.meta.env.VITE_MAINTENANCE_MODE === "true";
 const MAINTENANCE_DISABLED = import.meta.env.VITE_MAINTENANCE_MODE === "false";
 
 const App = () => {
-  const isMaintenance =
-    MAINTENANCE_FORCED || (!MAINTENANCE_DISABLED && Date.now() >= MAINTENANCE_START.getTime());
+  // Manutenção desativada
+  const isMaintenance = false;
 
   if (isMaintenance) {
     return <Maintenance />;
