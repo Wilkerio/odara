@@ -15,7 +15,7 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
       {
         h: "1. Introduction",
         paragraphs: [
-          'Odara Capital Partners SPV ("Odara," "we," "us," "our") is a securitization company incorporated under the laws of the Grand Duchy of Luxembourg, with registered office at 2 Parc d\'Activités Capellen, 8308 Capellen, Luxembourg, and an office at Av. Paulista, 726, São Paulo, Brazil. Odara is committed to safeguarding the personal data of the professional counterparties, corporate partners, and website visitors it interacts with.',
+          'Odara Capital Partners SPV ("Odara," "we," "us," "our") is a securitization company incorporated under the laws of the Grand Duchy of Luxembourg, with registered office at 2 Parc d\'Activités Capellen, 8308 Capellen, Luxembourg, and an office at Av. Paulista, 726, 3º Andar, São Paulo, Brazil. Odara is committed to safeguarding the personal data of the professional counterparties, corporate partners, and website visitors it interacts with.',
           "This Privacy Policy, accessible at www.odara.lu/privacy and subject to periodic updates, describes how Odara collects, uses, shares and protects personal data in connection with our website and the Services described in our Terms of Use.",
         ],
       },
@@ -159,7 +159,7 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
         h: "18. How to contact us",
         paragraphs: [
           "For any question about this Privacy Policy or to exercise your rights, contact us at contact@odaracapital.com.",
-          "Odara Capital Partners SPV — Registered office: 2 Parc d'Activités Capellen, 8308 Capellen, Luxembourg. Brazil office: Av. Paulista, 726, São Paulo, SP.",
+          "Odara Capital Partners SPV — Registered office: 2 Parc d'Activités Capellen, 8308 Capellen, Luxembourg. Brazil office: Av. Paulista, 726, 3º Andar, São Paulo, SP.",
         ],
       },
     ],
@@ -173,7 +173,7 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
       {
         h: "1. Introdução",
         paragraphs: [
-          'A Odara Capital Partners SPV ("Odara", "nós", "nosso") é uma sociedade de securitização constituída segundo as leis do Grão-Ducado de Luxemburgo, com sede em 2 Parc d\'Activités Capellen, 8308 Capellen, Luxemburgo, e escritório na Av. Paulista, 726, São Paulo, Brasil. A Odara está comprometida em proteger os dados pessoais das contrapartes profissionais, parceiros corporativos e visitantes do website com quem interage.',
+          'A Odara Capital Partners SPV ("Odara", "nós", "nosso") é uma sociedade de securitização constituída segundo as leis do Grão-Ducado de Luxemburgo, com sede em 2 Parc d\'Activités Capellen, 8308 Capellen, Luxemburgo, e escritório na Av. Paulista, 726, 3º Andar, São Paulo, Brasil. A Odara está comprometida em proteger os dados pessoais das contrapartes profissionais, parceiros corporativos e visitantes do website com quem interage.',
           "Esta Política de Privacidade, disponível em www.odara.lu/privacy e sujeita a atualizações periódicas, descreve como a Odara coleta, utiliza, compartilha e protege dados pessoais em conexão com nosso website e os Serviços descritos em nossos Termos de Uso.",
         ],
       },
@@ -317,7 +317,7 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
         h: "18. Como entrar em contato conosco",
         paragraphs: [
           "Para qualquer dúvida sobre esta Política de Privacidade ou para exercer seus direitos, entre em contato pelo e-mail contact@odaracapital.com.",
-          "Odara Capital Partners SPV — Sede: 2 Parc d'Activités Capellen, 8308 Capellen, Luxemburgo. Escritório no Brasil: Av. Paulista, 726, São Paulo, SP.",
+          "Odara Capital Partners SPV — Sede: 2 Parc d'Activités Capellen, 8308 Capellen, Luxemburgo. Escritório no Brasil: Av. Paulista, 726, 3º Andar, São Paulo, SP.",
         ],
       },
     ],
@@ -331,7 +331,7 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
       {
         h: "1. Introducción",
         paragraphs: [
-          'Odara Capital Partners SPV ("Odara", "nosotros", "nuestro") es una sociedad de titulización constituida conforme a las leyes del Gran Ducado de Luxemburgo, con domicilio social en 2 Parc d\'Activités Capellen, 8308 Capellen, Luxemburgo, y una oficina en Av. Paulista, 726, São Paulo, Brasil. Odara está comprometida con la protección de los datos personales de las contrapartes profesionales, socios corporativos y visitantes del sitio web con los que interactúa.',
+          'Odara Capital Partners SPV ("Odara", "nosotros", "nuestro") es una sociedad de titulización constituida conforme a las leyes del Gran Ducado de Luxemburgo, con domicilio social en 2 Parc d\'Activités Capellen, 8308 Capellen, Luxemburgo, y una oficina en Av. Paulista, 726, 3º Andar, São Paulo, Brasil. Odara está comprometida con la protección de los datos personales de las contrapartes profesionales, socios corporativos y visitantes del sitio web con los que interactúa.',
           "Esta Política de Privacidad, disponible en www.odara.lu/privacy y sujeta a actualizaciones periódicas, describe cómo Odara recopila, utiliza, comparte y protege los datos personales en relación con nuestro sitio web y los Servicios descritos en nuestros Términos de Uso.",
         ],
       },
@@ -475,7 +475,7 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
         h: "18. Cómo contactarnos",
         paragraphs: [
           "Para cualquier pregunta sobre esta Política de Privacidad o para ejercer sus derechos, contáctenos en contact@odaracapital.com.",
-          "Odara Capital Partners SPV — Domicilio social: 2 Parc d'Activités Capellen, 8308 Capellen, Luxemburgo. Oficina en Brasil: Av. Paulista, 726, São Paulo, SP.",
+          "Odara Capital Partners SPV — Domicilio social: 2 Parc d'Activités Capellen, 8308 Capellen, Luxemburgo. Oficina en Brasil: Av. Paulista, 726, 3º Andar, São Paulo, SP.",
         ],
       },
     ],
@@ -489,7 +489,7 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
       {
         h: "1. Introduction",
         paragraphs: [
-          'Odara Capital Partners SPV (« Odara », « nous », « notre ») est une société de titrisation constituée conformément aux lois du Grand-Duché de Luxembourg, dont le siège social est situé au 2 Parc d\'Activités Capellen, 8308 Capellen, Luxembourg, et disposant d\'un bureau Av. Paulista, 726, São Paulo, Brésil. Odara s\'engage à protéger les données personnelles des contreparties professionnelles, partenaires institutionnels et visiteurs du site web avec lesquels elle interagit.',
+          'Odara Capital Partners SPV (« Odara », « nous », « notre ») est une société de titrisation constituée conformément aux lois du Grand-Duché de Luxembourg, dont le siège social est situé au 2 Parc d\'Activités Capellen, 8308 Capellen, Luxembourg, et disposant d\'un bureau Av. Paulista, 726, 3º Andar, São Paulo, Brésil. Odara s\'engage à protéger les données personnelles des contreparties professionnelles, partenaires institutionnels et visiteurs du site web avec lesquels elle interagit.',
           "La présente Politique de Confidentialité, accessible à l'adresse www.odara.lu/privacy et susceptible d'être mise à jour périodiquement, décrit la manière dont Odara collecte, utilise, partage et protège les données personnelles dans le cadre de notre site web et des Services décrits dans nos Conditions d'Utilisation.",
         ],
       },
@@ -633,7 +633,7 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
         h: "18. Comment nous contacter",
         paragraphs: [
           "Pour toute question relative à la présente Politique de Confidentialité ou pour exercer vos droits, contactez-nous à l'adresse contact@odaracapital.com.",
-          "Odara Capital Partners SPV — Siège social : 2 Parc d'Activités Capellen, 8308 Capellen, Luxembourg. Bureau au Brésil : Av. Paulista, 726, São Paulo, SP.",
+          "Odara Capital Partners SPV — Siège social : 2 Parc d'Activités Capellen, 8308 Capellen, Luxembourg. Bureau au Brésil : Av. Paulista, 726, 3º Andar, São Paulo, SP.",
         ],
       },
     ],
