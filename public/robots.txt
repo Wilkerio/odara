@@ -12,3 +12,5 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://odaracapitalpartners.lovable.app/sitemap.xml
