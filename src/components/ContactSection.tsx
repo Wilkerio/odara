@@ -22,7 +22,7 @@ const getContactInfo = (lang: string) => [
       <div className="space-y-3">
         <div>
           <span className="block font-['Cormorant_Garamond',serif] text-[1.15rem] font-light" style={{ color: "hsl(36,18%,96%)" }}>
-            Av. Paulista, 726 - Bela Vista
+            Av. Paulista, 726 — 3º Andar — Bela Vista
           </span>
           <span className="block font-['DM_Sans',sans-serif] text-[0.75rem] font-light mt-0.5" style={{ color: "rgba(247,245,241,0.6)" }}>
             01310-910 — São Paulo, SP, Brasil
@@ -454,7 +454,7 @@ const ContactSection = ({ t, lang = 'pt' }: ContactProps) => {
             >
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.0976951740286!2d-46.69389492378835!3d-23.56714186135059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce576890c4f4c1%3A0x7f22e4e6d8e3e5f5!2sAv.%20Paulista%2C%20726%20-%20Bela%20Vista%2C%20S%C3%A3o%20Paulo%20-%20SP!5e0!3m2!1spt-BR!2sbr!4v1" width="100%" height="100%" style={{ border: 0, filter: "invert(0.92) hue-rotate(180deg) brightness(0.75) contrast(1.2) saturate(0.3)" }} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" title="Odara Capital Partners — São Paulo" className="transition-all duration-700 group-hover:scale-[1.02]" />
               <div className="absolute inset-0 pointer-events-none" style={{ background: "linear-gradient(180deg, hsla(218,100%,10%,0.4) 0%, transparent 30%, transparent 70%, hsla(218,100%,10%,0.6) 100%)" }} />
-              <a href="https://www.google.com/maps/search/?api=1&query=Av.+Paulista%2C+726+-+Bela+Vista%2C+S%C3%A3o+Paulo+-+SP" target="_blank" rel="noopener noreferrer" className="absolute bottom-4 right-4 z-10 flex items-center gap-2 px-5 py-2.5 font-['DM_Sans',sans-serif] text-[0.65rem] tracking-[0.2em] uppercase no-underline transition-all hover:gap-3 rounded-sm" style={{ background: "hsl(232,25%,56%)", color: "hsl(36,18%,96%)", backdropFilter: "blur(10px)" }}>
+              <a href="https://maps.google.com/maps/place//data=!4m2!3m1!1s0x94ce574e7a73d30d:0x862a31742765a371?entry=s&sa=X&ved=2ahUKEwjw1MXN1uSWAxV3HbkGHdNtE7EQ4kB6BAgiEAA&hl=en" target="_blank" rel="noopener noreferrer" className="absolute bottom-4 right-4 z-10 flex items-center gap-2 px-5 py-2.5 font-['DM_Sans',sans-serif] text-[0.65rem] tracking-[0.2em] uppercase no-underline transition-all hover:gap-3 rounded-sm" style={{ background: "hsl(232,25%,56%)", color: "hsl(36,18%,96%)", backdropFilter: "blur(10px)" }}>
                 Get Directions
                 <ArrowRight size={12} />
               </a>
