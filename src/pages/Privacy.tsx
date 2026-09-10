@@ -8,27 +8,27 @@ type Section = { h: string; paragraphs?: string[]; bullets?: Bullet[] };
 const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: string; title: string; updated: string; sections: Section[] }> = {
   en: {
     back: "Back",
-    pageEyebrow: "Lumnis Capital Partners",
+    pageEyebrow: "Odara Capital Partners",
     title: "Our Policies — Privacy Policy",
     updated: "Last updated: July 18th, 2026",
     sections: [
       {
         h: "1. Introduction",
         paragraphs: [
-          'Lumnis Capital Partners SPV ("Lumnis," "we," "us," "our") is a securitization company incorporated under the laws of the Grand Duchy of Luxembourg, with registered office at 2 Parc d\'Activités Capellen, 8308 Capellen, Luxembourg, and an office at Av. Paulista, 726, São Paulo, Brazil. Lumnis is committed to safeguarding the personal data of the professional counterparties, corporate partners, and website visitors it interacts with.',
-          "This Privacy Policy, accessible at www.lumnis.lu/privacy and subject to periodic updates, describes how Lumnis collects, uses, shares and protects personal data in connection with our website and the Services described in our Terms of Use.",
+          'Odara Capital Partners SPV ("Odara," "we," "us," "our") is a securitization company incorporated under the laws of the Grand Duchy of Luxembourg, with registered office at 2 Parc d\'Activités Capellen, 8308 Capellen, Luxembourg, and an office at Av. Paulista, 726, São Paulo, Brazil. Odara is committed to safeguarding the personal data of the professional counterparties, corporate partners, and website visitors it interacts with.',
+          "This Privacy Policy, accessible at www.odara.lu/privacy and subject to periodic updates, describes how Odara collects, uses, shares and protects personal data in connection with our website and the Services described in our Terms of Use.",
         ],
       },
       {
         h: "2. Acknowledgement and Agreement",
         paragraphs: [
-          "By visiting our website or otherwise engaging with Lumnis, you acknowledge that you have read and understood this Privacy Policy. Where processing is based on your consent, you may withdraw it at any time as described in Section 13 below, without affecting the lawfulness of processing carried out before withdrawal.",
+          "By visiting our website or otherwise engaging with Odara, you acknowledge that you have read and understood this Privacy Policy. Where processing is based on your consent, you may withdraw it at any time as described in Section 13 below, without affecting the lawfulness of processing carried out before withdrawal.",
         ],
       },
       {
         h: "3. Applicability",
         paragraphs: [
-          "This Privacy Policy applies to personal data collected through the Lumnis website and in the course of our business relationships with professional counterparties, corporate borrowers, advisers and business partners. It does not extend to personal data collected by third-party websites or services that we do not control — please refer to their own privacy policies.",
+          "This Privacy Policy applies to personal data collected through the Odara website and in the course of our business relationships with professional counterparties, corporate borrowers, advisers and business partners. It does not extend to personal data collected by third-party websites or services that we do not control — please refer to their own privacy policies.",
         ],
       },
       {
@@ -128,7 +128,7 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
           { label: "Right regarding Automated Decisions:", text: "Request review of decisions based solely on automated processing." },
         ],
         paragraphs: [
-          "Requests may be sent to contact@lumniscapital.com. Subject to legal exemptions, we aim to respond within the timeframes required by applicable law. You may also lodge a complaint with the Luxembourg Commission Nationale pour la Protection des Données (CNPD) or the Brazilian Autoridade Nacional de Proteção de Dados (ANPD).",
+          "Requests may be sent to contact@odaracapital.com. Subject to legal exemptions, we aim to respond within the timeframes required by applicable law. You may also lodge a complaint with the Luxembourg Commission Nationale pour la Protection des Données (CNPD) or the Brazilian Autoridade Nacional de Proteção de Dados (ANPD).",
         ],
       },
       {
@@ -152,41 +152,41 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
       {
         h: "17. Reporting concerns",
         paragraphs: [
-          "Lumnis is committed to conducting its business with integrity. If you have concerns regarding the conduct of Lumnis, its officers or employees, you may report them in confidence to contact@lumniscapital.com. Every report will be reviewed and addressed appropriately.",
+          "Odara is committed to conducting its business with integrity. If you have concerns regarding the conduct of Odara, its officers or employees, you may report them in confidence to contact@odaracapital.com. Every report will be reviewed and addressed appropriately.",
         ],
       },
       {
         h: "18. How to contact us",
         paragraphs: [
-          "For any question about this Privacy Policy or to exercise your rights, contact us at contact@lumniscapital.com.",
-          "Lumnis Capital Partners SPV — Registered office: 2 Parc d'Activités Capellen, 8308 Capellen, Luxembourg. Brazil office: Av. Paulista, 726, São Paulo, SP.",
+          "For any question about this Privacy Policy or to exercise your rights, contact us at contact@odaracapital.com.",
+          "Odara Capital Partners SPV — Registered office: 2 Parc d'Activités Capellen, 8308 Capellen, Luxembourg. Brazil office: Av. Paulista, 726, São Paulo, SP.",
         ],
       },
     ],
   },
   pt: {
     back: "Voltar",
-    pageEyebrow: "Lumnis Capital Partners",
+    pageEyebrow: "Odara Capital Partners",
     title: "Nossas Políticas — Política de Privacidade",
     updated: "Última atualização: 18 de julho de 2026",
     sections: [
       {
         h: "1. Introdução",
         paragraphs: [
-          'A Lumnis Capital Partners SPV ("Lumnis", "nós", "nosso") é uma sociedade de securitização constituída segundo as leis do Grão-Ducado de Luxemburgo, com sede em 2 Parc d\'Activités Capellen, 8308 Capellen, Luxemburgo, e escritório na Av. Paulista, 726, São Paulo, Brasil. A Lumnis está comprometida em proteger os dados pessoais das contrapartes profissionais, parceiros corporativos e visitantes do website com quem interage.',
-          "Esta Política de Privacidade, disponível em www.lumnis.lu/privacy e sujeita a atualizações periódicas, descreve como a Lumnis coleta, utiliza, compartilha e protege dados pessoais em conexão com nosso website e os Serviços descritos em nossos Termos de Uso.",
+          'A Odara Capital Partners SPV ("Odara", "nós", "nosso") é uma sociedade de securitização constituída segundo as leis do Grão-Ducado de Luxemburgo, com sede em 2 Parc d\'Activités Capellen, 8308 Capellen, Luxemburgo, e escritório na Av. Paulista, 726, São Paulo, Brasil. A Odara está comprometida em proteger os dados pessoais das contrapartes profissionais, parceiros corporativos e visitantes do website com quem interage.',
+          "Esta Política de Privacidade, disponível em www.odara.lu/privacy e sujeita a atualizações periódicas, descreve como a Odara coleta, utiliza, compartilha e protege dados pessoais em conexão com nosso website e os Serviços descritos em nossos Termos de Uso.",
         ],
       },
       {
         h: "2. Ciência e Concordância",
         paragraphs: [
-          "Ao visitar nosso website ou de outra forma interagir com a Lumnis, você reconhece que leu e entendeu esta Política de Privacidade. Quando o tratamento se basear em seu consentimento, você pode retirá-lo a qualquer momento, conforme descrito na Seção 13 abaixo, sem afetar a licitude do tratamento realizado antes da retirada.",
+          "Ao visitar nosso website ou de outra forma interagir com a Odara, você reconhece que leu e entendeu esta Política de Privacidade. Quando o tratamento se basear em seu consentimento, você pode retirá-lo a qualquer momento, conforme descrito na Seção 13 abaixo, sem afetar a licitude do tratamento realizado antes da retirada.",
         ],
       },
       {
         h: "3. Aplicabilidade",
         paragraphs: [
-          "Esta Política de Privacidade aplica-se aos dados pessoais coletados através do website da Lumnis e no curso de nossos relacionamentos comerciais com contrapartes profissionais, tomadores corporativos, assessores e parceiros de negócio. Não se estende a dados pessoais coletados por websites ou serviços de terceiros que não controlamos — consulte as respectivas políticas de privacidade.",
+          "Esta Política de Privacidade aplica-se aos dados pessoais coletados através do website da Odara e no curso de nossos relacionamentos comerciais com contrapartes profissionais, tomadores corporativos, assessores e parceiros de negócio. Não se estende a dados pessoais coletados por websites ou serviços de terceiros que não controlamos — consulte as respectivas políticas de privacidade.",
         ],
       },
       {
@@ -286,7 +286,7 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
           { label: "Direito quanto a Decisões Automatizadas:", text: "Solicitar revisão de decisões tomadas com base unicamente em tratamento automatizado." },
         ],
         paragraphs: [
-          "Solicitações podem ser enviadas para contact@lumniscapital.com. Sujeito a exceções legais, buscamos responder dentro dos prazos exigidos pela lei aplicável. Você também pode apresentar reclamação à Commission Nationale pour la Protection des Données (CNPD) de Luxemburgo ou à Autoridade Nacional de Proteção de Dados (ANPD) do Brasil.",
+          "Solicitações podem ser enviadas para contact@odaracapital.com. Sujeito a exceções legais, buscamos responder dentro dos prazos exigidos pela lei aplicável. Você também pode apresentar reclamação à Commission Nationale pour la Protection des Données (CNPD) de Luxemburgo ou à Autoridade Nacional de Proteção de Dados (ANPD) do Brasil.",
         ],
       },
       {
@@ -310,41 +310,41 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
       {
         h: "17. Relato de preocupações",
         paragraphs: [
-          "A Lumnis está comprometida em conduzir seus negócios com integridade. Se você tiver preocupações quanto à conduta da Lumnis, de seus dirigentes ou funcionários, pode relatá-las em confidencialidade para contact@lumniscapital.com. Todo relato será analisado e tratado adequadamente.",
+          "A Odara está comprometida em conduzir seus negócios com integridade. Se você tiver preocupações quanto à conduta da Odara, de seus dirigentes ou funcionários, pode relatá-las em confidencialidade para contact@odaracapital.com. Todo relato será analisado e tratado adequadamente.",
         ],
       },
       {
         h: "18. Como entrar em contato conosco",
         paragraphs: [
-          "Para qualquer dúvida sobre esta Política de Privacidade ou para exercer seus direitos, entre em contato pelo e-mail contact@lumniscapital.com.",
-          "Lumnis Capital Partners SPV — Sede: 2 Parc d'Activités Capellen, 8308 Capellen, Luxemburgo. Escritório no Brasil: Av. Paulista, 726, São Paulo, SP.",
+          "Para qualquer dúvida sobre esta Política de Privacidade ou para exercer seus direitos, entre em contato pelo e-mail contact@odaracapital.com.",
+          "Odara Capital Partners SPV — Sede: 2 Parc d'Activités Capellen, 8308 Capellen, Luxemburgo. Escritório no Brasil: Av. Paulista, 726, São Paulo, SP.",
         ],
       },
     ],
   },
   es: {
     back: "Volver",
-    pageEyebrow: "Lumnis Capital Partners",
+    pageEyebrow: "Odara Capital Partners",
     title: "Nuestras Políticas — Política de Privacidad",
     updated: "Última actualización: 18 de julio de 2026",
     sections: [
       {
         h: "1. Introducción",
         paragraphs: [
-          'Lumnis Capital Partners SPV ("Lumnis", "nosotros", "nuestro") es una sociedad de titulización constituida conforme a las leyes del Gran Ducado de Luxemburgo, con domicilio social en 2 Parc d\'Activités Capellen, 8308 Capellen, Luxemburgo, y una oficina en Av. Paulista, 726, São Paulo, Brasil. Lumnis está comprometida con la protección de los datos personales de las contrapartes profesionales, socios corporativos y visitantes del sitio web con los que interactúa.',
-          "Esta Política de Privacidad, disponible en www.lumnis.lu/privacy y sujeta a actualizaciones periódicas, describe cómo Lumnis recopila, utiliza, comparte y protege los datos personales en relación con nuestro sitio web y los Servicios descritos en nuestros Términos de Uso.",
+          'Odara Capital Partners SPV ("Odara", "nosotros", "nuestro") es una sociedad de titulización constituida conforme a las leyes del Gran Ducado de Luxemburgo, con domicilio social en 2 Parc d\'Activités Capellen, 8308 Capellen, Luxemburgo, y una oficina en Av. Paulista, 726, São Paulo, Brasil. Odara está comprometida con la protección de los datos personales de las contrapartes profesionales, socios corporativos y visitantes del sitio web con los que interactúa.',
+          "Esta Política de Privacidad, disponible en www.odara.lu/privacy y sujeta a actualizaciones periódicas, describe cómo Odara recopila, utiliza, comparte y protege los datos personales en relación con nuestro sitio web y los Servicios descritos en nuestros Términos de Uso.",
         ],
       },
       {
         h: "2. Reconocimiento y Aceptación",
         paragraphs: [
-          "Al visitar nuestro sitio web o interactuar de cualquier otra forma con Lumnis, usted reconoce que ha leído y comprendido esta Política de Privacidad. Cuando el tratamiento se base en su consentimiento, podrá retirarlo en cualquier momento, según se describe en la Sección 13 más adelante, sin que ello afecte la licitud del tratamiento realizado antes de la retirada.",
+          "Al visitar nuestro sitio web o interactuar de cualquier otra forma con Odara, usted reconoce que ha leído y comprendido esta Política de Privacidad. Cuando el tratamiento se base en su consentimiento, podrá retirarlo en cualquier momento, según se describe en la Sección 13 más adelante, sin que ello afecte la licitud del tratamiento realizado antes de la retirada.",
         ],
       },
       {
         h: "3. Aplicabilidad",
         paragraphs: [
-          "Esta Política de Privacidad se aplica a los datos personales recopilados a través del sitio web de Lumnis y en el curso de nuestras relaciones comerciales con contrapartes profesionales, prestatarios corporativos, asesores y socios de negocio. No se extiende a los datos personales recopilados por sitios web o servicios de terceros que no controlamos; le rogamos consultar sus respectivas políticas de privacidad.",
+          "Esta Política de Privacidad se aplica a los datos personales recopilados a través del sitio web de Odara y en el curso de nuestras relaciones comerciales con contrapartes profesionales, prestatarios corporativos, asesores y socios de negocio. No se extiende a los datos personales recopilados por sitios web o servicios de terceros que no controlamos; le rogamos consultar sus respectivas políticas de privacidad.",
         ],
       },
       {
@@ -444,7 +444,7 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
           { label: "Derecho relativo a Decisiones Automatizadas:", text: "Solicitar la revisión de decisiones basadas únicamente en el tratamiento automatizado." },
         ],
         paragraphs: [
-          "Las solicitudes pueden enviarse a contact@lumniscapital.com. Sujeto a las excepciones legales, procuramos responder dentro de los plazos exigidos por la legislación aplicable. Asimismo, usted puede presentar una reclamación ante la Commission Nationale pour la Protection des Données (CNPD) de Luxemburgo o ante la Autoridade Nacional de Proteção de Dados (ANPD) de Brasil.",
+          "Las solicitudes pueden enviarse a contact@odaracapital.com. Sujeto a las excepciones legales, procuramos responder dentro de los plazos exigidos por la legislación aplicable. Asimismo, usted puede presentar una reclamación ante la Commission Nationale pour la Protection des Données (CNPD) de Luxemburgo o ante la Autoridade Nacional de Proteção de Dados (ANPD) de Brasil.",
         ],
       },
       {
@@ -468,41 +468,41 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
       {
         h: "17. Comunicación de inquietudes",
         paragraphs: [
-          "Lumnis está comprometida con la conducción de sus negocios con integridad. Si tiene alguna inquietud respecto de la conducta de Lumnis, de sus directivos o empleados, puede comunicarla de manera confidencial a contact@lumniscapital.com. Cada comunicación será revisada y atendida de manera adecuada.",
+          "Odara está comprometida con la conducción de sus negocios con integridad. Si tiene alguna inquietud respecto de la conducta de Odara, de sus directivos o empleados, puede comunicarla de manera confidencial a contact@odaracapital.com. Cada comunicación será revisada y atendida de manera adecuada.",
         ],
       },
       {
         h: "18. Cómo contactarnos",
         paragraphs: [
-          "Para cualquier pregunta sobre esta Política de Privacidad o para ejercer sus derechos, contáctenos en contact@lumniscapital.com.",
-          "Lumnis Capital Partners SPV — Domicilio social: 2 Parc d'Activités Capellen, 8308 Capellen, Luxemburgo. Oficina en Brasil: Av. Paulista, 726, São Paulo, SP.",
+          "Para cualquier pregunta sobre esta Política de Privacidad o para ejercer sus derechos, contáctenos en contact@odaracapital.com.",
+          "Odara Capital Partners SPV — Domicilio social: 2 Parc d'Activités Capellen, 8308 Capellen, Luxemburgo. Oficina en Brasil: Av. Paulista, 726, São Paulo, SP.",
         ],
       },
     ],
   },
   fr: {
     back: "Retour",
-    pageEyebrow: "Lumnis Capital Partners",
+    pageEyebrow: "Odara Capital Partners",
     title: "Nos Politiques — Politique de Confidentialité",
     updated: "Dernière mise à jour : 18 juillet 2026",
     sections: [
       {
         h: "1. Introduction",
         paragraphs: [
-          'Lumnis Capital Partners SPV (« Lumnis », « nous », « notre ») est une société de titrisation constituée conformément aux lois du Grand-Duché de Luxembourg, dont le siège social est situé au 2 Parc d\'Activités Capellen, 8308 Capellen, Luxembourg, et disposant d\'un bureau Av. Paulista, 726, São Paulo, Brésil. Lumnis s\'engage à protéger les données personnelles des contreparties professionnelles, partenaires institutionnels et visiteurs du site web avec lesquels elle interagit.',
-          "La présente Politique de Confidentialité, accessible à l'adresse www.lumnis.lu/privacy et susceptible d'être mise à jour périodiquement, décrit la manière dont Lumnis collecte, utilise, partage et protège les données personnelles dans le cadre de notre site web et des Services décrits dans nos Conditions d'Utilisation.",
+          'Odara Capital Partners SPV (« Odara », « nous », « notre ») est une société de titrisation constituée conformément aux lois du Grand-Duché de Luxembourg, dont le siège social est situé au 2 Parc d\'Activités Capellen, 8308 Capellen, Luxembourg, et disposant d\'un bureau Av. Paulista, 726, São Paulo, Brésil. Odara s\'engage à protéger les données personnelles des contreparties professionnelles, partenaires institutionnels et visiteurs du site web avec lesquels elle interagit.',
+          "La présente Politique de Confidentialité, accessible à l'adresse www.odara.lu/privacy et susceptible d'être mise à jour périodiquement, décrit la manière dont Odara collecte, utilise, partage et protège les données personnelles dans le cadre de notre site web et des Services décrits dans nos Conditions d'Utilisation.",
         ],
       },
       {
         h: "2. Prise de connaissance et acceptation",
         paragraphs: [
-          "En visitant notre site web ou en interagissant de toute autre manière avec Lumnis, vous reconnaissez avoir lu et compris la présente Politique de Confidentialité. Lorsque le traitement repose sur votre consentement, vous pouvez le retirer à tout moment, comme décrit à la Section 13 ci-dessous, sans que cela n'affecte la licéité du traitement effectué avant ce retrait.",
+          "En visitant notre site web ou en interagissant de toute autre manière avec Odara, vous reconnaissez avoir lu et compris la présente Politique de Confidentialité. Lorsque le traitement repose sur votre consentement, vous pouvez le retirer à tout moment, comme décrit à la Section 13 ci-dessous, sans que cela n'affecte la licéité du traitement effectué avant ce retrait.",
         ],
       },
       {
         h: "3. Champ d'application",
         paragraphs: [
-          "La présente Politique de Confidentialité s'applique aux données personnelles collectées via le site web de Lumnis et dans le cadre de nos relations commerciales avec des contreparties professionnelles, emprunteurs institutionnels, conseillers et partenaires commerciaux. Elle ne s'étend pas aux données personnelles collectées par des sites web ou services tiers que nous ne contrôlons pas — veuillez vous référer à leurs propres politiques de confidentialité.",
+          "La présente Politique de Confidentialité s'applique aux données personnelles collectées via le site web de Odara et dans le cadre de nos relations commerciales avec des contreparties professionnelles, emprunteurs institutionnels, conseillers et partenaires commerciaux. Elle ne s'étend pas aux données personnelles collectées par des sites web ou services tiers que nous ne contrôlons pas — veuillez vous référer à leurs propres politiques de confidentialité.",
         ],
       },
       {
@@ -602,7 +602,7 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
           { label: "Droit relatif aux décisions automatisées :", text: "Demander le réexamen de décisions fondées exclusivement sur un traitement automatisé." },
         ],
         paragraphs: [
-          "Les demandes peuvent être adressées à contact@lumniscapital.com. Sous réserve des exceptions légales, nous nous efforçons de répondre dans les délais requis par la législation applicable. Vous pouvez également introduire une réclamation auprès de la Commission Nationale pour la Protection des Données (CNPD) du Luxembourg ou de l'Autoridade Nacional de Proteção de Dados (ANPD) du Brésil.",
+          "Les demandes peuvent être adressées à contact@odaracapital.com. Sous réserve des exceptions légales, nous nous efforçons de répondre dans les délais requis par la législation applicable. Vous pouvez également introduire une réclamation auprès de la Commission Nationale pour la Protection des Données (CNPD) du Luxembourg ou de l'Autoridade Nacional de Proteção de Dados (ANPD) du Brésil.",
         ],
       },
       {
@@ -626,14 +626,14 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
       {
         h: "17. Signalement de préoccupations",
         paragraphs: [
-          "Lumnis s'engage à conduire ses activités avec intégrité. Si vous avez des préoccupations concernant la conduite de Lumnis, de ses dirigeants ou de ses employés, vous pouvez les signaler en toute confidentialité à contact@lumniscapital.com. Chaque signalement sera examiné et traité de manière appropriée.",
+          "Odara s'engage à conduire ses activités avec intégrité. Si vous avez des préoccupations concernant la conduite de Odara, de ses dirigeants ou de ses employés, vous pouvez les signaler en toute confidentialité à contact@odaracapital.com. Chaque signalement sera examiné et traité de manière appropriée.",
         ],
       },
       {
         h: "18. Comment nous contacter",
         paragraphs: [
-          "Pour toute question relative à la présente Politique de Confidentialité ou pour exercer vos droits, contactez-nous à l'adresse contact@lumniscapital.com.",
-          "Lumnis Capital Partners SPV — Siège social : 2 Parc d'Activités Capellen, 8308 Capellen, Luxembourg. Bureau au Brésil : Av. Paulista, 726, São Paulo, SP.",
+          "Pour toute question relative à la présente Politique de Confidentialité ou pour exercer vos droits, contactez-nous à l'adresse contact@odaracapital.com.",
+          "Odara Capital Partners SPV — Siège social : 2 Parc d'Activités Capellen, 8308 Capellen, Luxembourg. Bureau au Brésil : Av. Paulista, 726, São Paulo, SP.",
         ],
       },
     ],
@@ -641,7 +641,7 @@ const content: Record<"en" | "pt" | "es" | "fr", { back: string; pageEyebrow: st
 };
 
 const SUPPORTED_LANGS = ["en", "pt", "es", "fr"] as const;
-const LANG_STORAGE_KEY = "lumnis_lang";
+const LANG_STORAGE_KEY = "odara_lang";
 
 function detectInitialLang(): "en" | "pt" | "es" | "fr" {
   const saved = localStorage.getItem(LANG_STORAGE_KEY);

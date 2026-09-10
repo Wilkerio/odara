@@ -5,7 +5,7 @@ import {
 } from "recharts";
 import { motion, AnimatePresence } from "framer-motion";
 
-const PURPLE = "#172445";
+const PURPLE = "#0a2a56";
 const PURPLE_LIGHT = "#4670B2";
 
 const generateCreditData = () => {

@@ -28,7 +28,7 @@ const fallbackInsights: Article[] = [
   { tag: "Crédito Estruturado", title: "FIDCs batem recorde de captação no Brasil", excerpt: "O mercado brasileiro de fundos de direitos creditórios atinge marcos históricos de volume.", date: null, url: "#", featured: false },
 ];
 
-const CACHE_KEY = 'lumnis_insights_cache';
+const CACHE_KEY = 'odara_insights_cache';
 const CACHE_DURATION = 2 * 60 * 60 * 1000;
 
 const InsightsSection = ({ t, lang = 'pt' }: InsightsProps) => {

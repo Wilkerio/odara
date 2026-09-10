@@ -10,7 +10,7 @@ const content = {
     sections: [
       {
         h: "1. Acceptance of These Terms",
-        p: "These Terms of Use (the “Terms”) govern access to and use of the website located at www.lumnis.lu (the “Website”), operated by Lumnis Capital Partners SPV, a company incorporated under the laws of the Grand Duchy of Luxembourg, with registered office at 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxembourg, registered with the Luxembourg Trade and Companies Register (RCS Luxembourg).",
+        p: "These Terms of Use (the “Terms”) govern access to and use of the website located at www.odara.lu (the “Website”), operated by Odara Capital Partners SPV, a company incorporated under the laws of the Grand Duchy of Luxembourg, with registered office at 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxembourg, registered with the Luxembourg Trade and Companies Register (RCS Luxembourg).",
         p2: "By accessing or using the Website, you confirm that you have read, understood and agree to be bound by these Terms and by our Privacy Notice and Cookie Policy, which are incorporated by reference. If you do not agree with these Terms, you must not access or use the Website.",
         p3: "If you access the Website on behalf of a company, fund, institution or other legal entity, you represent and warrant that you are duly authorised to bind that entity, and “you” shall refer to that entity.",
       },
@@ -37,9 +37,9 @@ const content = {
       },
       {
         h: "5. Regulatory Status",
-        p: "Lumnis operates through a Luxembourg securitization vehicle established in accordance with the Luxembourg Law of 22 March 2004 on securitization, as amended (the “Securitization Law”), structured with multiple compartments, each of which is legally segregated.",
-        p2: "Lumnis is not a licensed credit institution, investment firm, alternative investment fund manager or insurance undertaking, and does not hold client money or provide custody services. Lumnis does not provide investment advice, portfolio management, legal, tax, accounting or regulatory advice.",
-        p3: "References on the Website to “partners”, “partnership” or similar expressions describe commercial relationships and do not imply the existence of a legal partnership, joint venture or agency between Lumnis and any third party.",
+        p: "Odara operates through a Luxembourg securitization vehicle established in accordance with the Luxembourg Law of 22 March 2004 on securitization, as amended (the “Securitization Law”), structured with multiple compartments, each of which is legally segregated.",
+        p2: "Odara is not a licensed credit institution, investment firm, alternative investment fund manager or insurance undertaking, and does not hold client money or provide custody services. Odara does not provide investment advice, portfolio management, legal, tax, accounting or regulatory advice.",
+        p3: "References on the Website to “partners”, “partnership” or similar expressions describe commercial relationships and do not imply the existence of a legal partnership, joint venture or agency between Odara and any third party.",
       },
       {
         h: "6. No Advice; Independent Assessment",
@@ -49,16 +49,16 @@ const content = {
       {
         h: "7. Performance, Projections and Risk Warning",
         p: "Structured credit and private-debt transactions involve significant risks, including credit risk, liquidity risk, currency and transfer risk, emerging-markets risk, legal and enforcement risk, and the risk of total loss of principal. Past performance is not indicative of future results. No representation is made, and no assurance, warranty or guarantee is given, as to the future performance, yield, repayment or outcome of any transaction, facility or instrument.",
-        p2: "Any forward-looking statements, targets, scenarios or illustrative figures appearing on the Website reflect assumptions as of the date of publication, are subject to change without notice, and involve known and unknown risks and uncertainties. Actual results may differ materially. Lumnis undertakes no obligation to update any forward-looking statement.",
+        p2: "Any forward-looking statements, targets, scenarios or illustrative figures appearing on the Website reflect assumptions as of the date of publication, are subject to change without notice, and involve known and unknown risks and uncertainties. Actual results may differ materially. Odara undertakes no obligation to update any forward-looking statement.",
       },
       {
         h: "8. Anti-Money-Laundering, Sanctions and Know-Your-Customer",
-        p: "Lumnis conducts its activities in compliance with applicable anti-money-laundering and counter-terrorist-financing legislation, including the Luxembourg Law of 12 November 2004, as amended, EU AML directives and regulations, and, where applicable, Brazilian Law No. 9,613/1998. Any engagement of the Services is conditional upon the satisfactory completion of client identification, verification, source-of-funds and sanctions screening procedures.",
-        p2: "You represent that you are not, and are not owned or controlled by, a person subject to sanctions administered by the European Union, the United Nations, the U.S. Office of Foreign Assets Control (OFAC), His Majesty’s Treasury (UK) or any equivalent authority, and that your use of the Website and any engagement with Lumnis will not violate applicable sanctions or export-control laws.",
+        p: "Odara conducts its activities in compliance with applicable anti-money-laundering and counter-terrorist-financing legislation, including the Luxembourg Law of 12 November 2004, as amended, EU AML directives and regulations, and, where applicable, Brazilian Law No. 9,613/1998. Any engagement of the Services is conditional upon the satisfactory completion of client identification, verification, source-of-funds and sanctions screening procedures.",
+        p2: "You represent that you are not, and are not owned or controlled by, a person subject to sanctions administered by the European Union, the United Nations, the U.S. Office of Foreign Assets Control (OFAC), His Majesty’s Treasury (UK) or any equivalent authority, and that your use of the Website and any engagement with Odara will not violate applicable sanctions or export-control laws.",
       },
       {
         h: "9. Intellectual Property",
-        p: "The Website and all Content — including the Lumnis name, logo, brand elements, texts, methodologies, analyses, presentations, graphics and design — are owned by or licensed to Lumnis and are protected by copyright, trademark and other intellectual-property laws of Luxembourg, the European Union, Brazil and international treaties.",
+        p: "The Website and all Content — including the Odara name, logo, brand elements, texts, methodologies, analyses, presentations, graphics and design — are owned by or licensed to Odara and are protected by copyright, trademark and other intellectual-property laws of Luxembourg, the European Union, Brazil and international treaties.",
         p2: "You are granted a limited, non-exclusive, non-transferable and revocable licence to access the Website and to view, download and print Content solely for your internal, non-commercial evaluation of the Services, provided that all proprietary notices are retained. Any other use — including reproduction, modification, distribution, republication, framing, scraping, text and data mining, or the training of artificial-intelligence models on the Content — is prohibited without our prior written consent.",
       },
       {
@@ -76,15 +76,15 @@ const content = {
       },
       {
         h: "11. Electronic Communications and Contact Forms",
-        p: "Information submitted through contact forms, e-mail or other electronic channels is not guaranteed to be secure, confidential or received. Do not transmit sensitive, confidential or price-sensitive information through the Website. Sending information to Lumnis does not create any advisory, fiduciary, mandate or client relationship, which may only be established through a duly executed written agreement and completion of onboarding procedures.",
+        p: "Information submitted through contact forms, e-mail or other electronic channels is not guaranteed to be secure, confidential or received. Do not transmit sensitive, confidential or price-sensitive information through the Website. Sending information to Odara does not create any advisory, fiduciary, mandate or client relationship, which may only be established through a duly executed written agreement and completion of onboarding procedures.",
       },
       {
         h: "12. Data Protection — GDPR and LGPD",
-        p: "Lumnis processes personal data in accordance with the Data Protection Laws. This Section provides a summary; the full details are set out in our Privacy Notice available at [link], which prevails in case of divergence.",
+        p: "Odara processes personal data in accordance with the Data Protection Laws. This Section provides a summary; the full details are set out in our Privacy Notice available at [link], which prevails in case of divergence.",
         subsections: [
           {
             h: "12.1 Controller and contact",
-            p: "The controller of personal data collected through the Website is Lumnis Capital Partners SPV, registered office at 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxembourg, e-mail: contact@lumniscapital.com.",
+            p: "The controller of personal data collected through the Website is Odara Capital Partners SPV, registered office at 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxembourg, e-mail: contact@odaracapital.com.",
           },
           {
             h: "12.2 Categories of data and purposes",
@@ -104,7 +104,7 @@ const content = {
           },
           {
             h: "12.6 Your rights",
-            p: "Subject to legal conditions and exemptions, you have the rights of access, rectification, erasure/deletion, restriction, portability and objection under the GDPR, and the corresponding rights under Article 18 LGPD, including confirmation of processing, anonymisation or blocking of unnecessary data, information on sharing, and review of automated decisions. Requests may be addressed to contact@lumniscapital.com. You may also lodge a complaint with the Luxembourg Commission Nationale pour la Protection des Données (CNPD), with the supervisory authority of your habitual residence in the EU, or with the Brazilian Autoridade Nacional de Proteção de Dados (ANPD).",
+            p: "Subject to legal conditions and exemptions, you have the rights of access, rectification, erasure/deletion, restriction, portability and objection under the GDPR, and the corresponding rights under Article 18 LGPD, including confirmation of processing, anonymisation or blocking of unnecessary data, information on sharing, and review of automated decisions. Requests may be addressed to contact@odaracapital.com. You may also lodge a complaint with the Luxembourg Commission Nationale pour la Protection des Données (CNPD), with the supervisory authority of your habitual residence in the EU, or with the Brazilian Autoridade Nacional de Proteção de Dados (ANPD).",
           },
           {
             h: "12.7 Security",
@@ -118,20 +118,20 @@ const content = {
       },
       {
         h: "14. Third-Party Websites and Content",
-        p: "The Website may contain links to third-party websites, including those of partners, service providers and market-data sources. Such links are provided for convenience only. Lumnis does not control, endorse or assume any responsibility for the content, security or privacy practices of third-party websites, which are governed by their own terms and policies.",
+        p: "The Website may contain links to third-party websites, including those of partners, service providers and market-data sources. Such links are provided for convenience only. Odara does not control, endorse or assume any responsibility for the content, security or privacy practices of third-party websites, which are governed by their own terms and policies.",
       },
       {
         h: "15. Disclaimer of Warranties",
-        p: "The Website and the Content are provided on an “as is” and “as available” basis. To the fullest extent permitted by applicable law, Lumnis disclaims all warranties, express or implied, including as to accuracy, completeness, timeliness, merchantability, fitness for a particular purpose, non-infringement, availability and freedom from errors or harmful components. Lumnis does not warrant that the Website will be uninterrupted, secure or error-free, and may modify, suspend or discontinue the Website at any time without notice.",
+        p: "The Website and the Content are provided on an “as is” and “as available” basis. To the fullest extent permitted by applicable law, Odara disclaims all warranties, express or implied, including as to accuracy, completeness, timeliness, merchantability, fitness for a particular purpose, non-infringement, availability and freedom from errors or harmful components. Odara does not warrant that the Website will be uninterrupted, secure or error-free, and may modify, suspend or discontinue the Website at any time without notice.",
       },
       {
         h: "16. Limitation of Liability",
-        p: "To the fullest extent permitted by applicable law, Lumnis, its shareholders, directors, officers, employees, agents and advisers shall not be liable for any indirect, incidental, special, consequential or punitive damages, or for any loss of profits, revenue, business, opportunity, goodwill or data, arising out of or in connection with the use of, or inability to use, the Website or reliance on any Content, whether in contract, tort (including negligence) or otherwise, even if advised of the possibility of such damages.",
+        p: "To the fullest extent permitted by applicable law, Odara, its shareholders, directors, officers, employees, agents and advisers shall not be liable for any indirect, incidental, special, consequential or punitive damages, or for any loss of profits, revenue, business, opportunity, goodwill or data, arising out of or in connection with the use of, or inability to use, the Website or reliance on any Content, whether in contract, tort (including negligence) or otherwise, even if advised of the possibility of such damages.",
         p2: "Nothing in these Terms excludes or limits liability for fraud, willful misconduct or gross negligence, or any other liability that cannot be excluded or limited under mandatory provisions of applicable law, including, where applicable to consumers, mandatory rules of the Brazilian Civil Code and Consumer Protection Code.",
       },
       {
         h: "17. Indemnification",
-        p: "You agree to indemnify and hold harmless Lumnis and its affiliates, directors, officers and employees from and against any claims, liabilities, damages, losses and expenses (including reasonable legal fees) arising out of or related to your breach of these Terms, your misuse of the Website, or your violation of any law or the rights of any third party.",
+        p: "You agree to indemnify and hold harmless Odara and its affiliates, directors, officers and employees from and against any claims, liabilities, damages, losses and expenses (including reasonable legal fees) arising out of or related to your breach of these Terms, your misuse of the Website, or your violation of any law or the rights of any third party.",
       },
       {
         h: "18. Amendments",
@@ -146,15 +146,15 @@ const content = {
           },
           {
             label: "No waiver.",
-            text: "Failure or delay by Lumnis in exercising any right under these Terms shall not constitute a waiver of that right.",
+            text: "Failure or delay by Odara in exercising any right under these Terms shall not constitute a waiver of that right.",
           },
           {
             label: "Assignment.",
-            text: "You may not assign your rights or obligations under these Terms. Lumnis may assign these Terms to an affiliate or successor.",
+            text: "You may not assign your rights or obligations under these Terms. Odara may assign these Terms to an affiliate or successor.",
           },
           {
             label: "Entire agreement.",
-            text: "These Terms, together with the Privacy Notice and the Cookie Policy, constitute the entire agreement between you and Lumnis regarding the use of the Website, and supersede any prior understandings on that subject. They do not govern the Services, which are subject to separate written agreements.",
+            text: "These Terms, together with the Privacy Notice and the Cookie Policy, constitute the entire agreement between you and Odara regarding the use of the Website, and supersede any prior understandings on that subject. They do not govern the Services, which are subject to separate written agreements.",
           },
           {
             label: "Languages.",
@@ -168,9 +168,9 @@ const content = {
       },
       {
         h: "21. Contact",
-        p: "Lumnis Capital Partners",
+        p: "Odara Capital Partners",
         p2: "Registered office: 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxembourg, Grand Duchy of Luxembourg — RCS Luxembourg.",
-        p3: "General enquiries and data protection: contact@lumniscapital.com",
+        p3: "General enquiries and data protection: contact@odaracapital.com",
       },
     ],
   },
@@ -181,7 +181,7 @@ const content = {
     sections: [
       {
         h: "1. Aceitação destes Termos",
-        p: "Estes Termos de Uso (os \"Termos\") regem o acesso e a utilização do website www.lumnis.lu (o \"Website\"), operado pela Lumnis Capital Partners SPV, sociedade constituída segundo as leis do Grão-Ducado de Luxemburgo, com sede em 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxemburgo, registrada no Registro de Comércio e Sociedades de Luxemburgo (RCS Luxembourg).",
+        p: "Estes Termos de Uso (os \"Termos\") regem o acesso e a utilização do website www.odara.lu (o \"Website\"), operado pela Odara Capital Partners SPV, sociedade constituída segundo as leis do Grão-Ducado de Luxemburgo, com sede em 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxemburgo, registrada no Registro de Comércio e Sociedades de Luxemburgo (RCS Luxembourg).",
         p2: "Ao acessar ou utilizar o Website, você confirma que leu, entendeu e concorda em se vincular a estes Termos e à nossa Política de Privacidade, incorporada por referência. Caso não concorde com estes Termos, não acesse nem utilize o Website.",
         p3: "Caso acesse o Website em nome de uma empresa, fundo, instituição ou outra pessoa jurídica, você declara e garante estar devidamente autorizado a vincular essa entidade, e \"você\" passa a se referir a essa entidade.",
       },
@@ -208,9 +208,9 @@ const content = {
       },
       {
         h: "5. Status Regulatório",
-        p: "A Lumnis opera por meio de um veículo de securitização luxemburguês constituído nos termos da Lei de Luxemburgo de 22 de março de 2004 sobre securitização, conforme alterada (a \"Lei de Securitização\"), estruturado em múltiplos compartimentos, cada um legalmente segregado.",
-        p2: "A Lumnis não é instituição de crédito licenciada, empresa de investimento, gestora de fundos de investimento alternativos ou seguradora, e não detém dinheiro de clientes nem presta serviços de custódia. A Lumnis não presta consultoria de investimento, gestão de carteiras, ou assessoria jurídica, tributária, contábil ou regulatória.",
-        p3: "Referências no Website a \"parceiros\", \"parceria\" ou expressões semelhantes descrevem relações comerciais e não implicam a existência de sociedade, joint venture ou mandato entre a Lumnis e qualquer terceiro.",
+        p: "A Odara opera por meio de um veículo de securitização luxemburguês constituído nos termos da Lei de Luxemburgo de 22 de março de 2004 sobre securitização, conforme alterada (a \"Lei de Securitização\"), estruturado em múltiplos compartimentos, cada um legalmente segregado.",
+        p2: "A Odara não é instituição de crédito licenciada, empresa de investimento, gestora de fundos de investimento alternativos ou seguradora, e não detém dinheiro de clientes nem presta serviços de custódia. A Odara não presta consultoria de investimento, gestão de carteiras, ou assessoria jurídica, tributária, contábil ou regulatória.",
+        p3: "Referências no Website a \"parceiros\", \"parceria\" ou expressões semelhantes descrevem relações comerciais e não implicam a existência de sociedade, joint venture ou mandato entre a Odara e qualquer terceiro.",
       },
       {
         h: "6. Ausência de Aconselhamento; Avaliação Independente",
@@ -220,16 +220,16 @@ const content = {
       {
         h: "7. Desempenho, Projeções e Aviso de Risco",
         p: "Operações de crédito estruturado e dívida privada envolvem riscos relevantes, incluindo risco de crédito, risco de liquidez, risco cambial e de transferência, risco de mercados emergentes, risco jurídico e de execução, e risco de perda total do principal. Desempenho passado não é indicativo de resultados futuros. Nenhuma declaração é feita, e nenhuma garantia é dada, quanto ao desempenho futuro, rendimento, pagamento ou resultado de qualquer operação, facilidade ou instrumento.",
-        p2: "Quaisquer declarações prospectivas, metas, cenários ou números ilustrativos no Website refletem premissas na data de publicação, estão sujeitos a alteração sem aviso prévio, e envolvem riscos e incertezas conhecidos e desconhecidos. Resultados reais podem divergir materialmente. A Lumnis não assume obrigação de atualizar qualquer declaração prospectiva.",
+        p2: "Quaisquer declarações prospectivas, metas, cenários ou números ilustrativos no Website refletem premissas na data de publicação, estão sujeitos a alteração sem aviso prévio, e envolvem riscos e incertezas conhecidos e desconhecidos. Resultados reais podem divergir materialmente. A Odara não assume obrigação de atualizar qualquer declaração prospectiva.",
       },
       {
         h: "8. Prevenção à Lavagem de Dinheiro, Sanções e Conheça Seu Cliente",
-        p: "A Lumnis conduz suas atividades em conformidade com a legislação aplicável de prevenção à lavagem de dinheiro e ao financiamento do terrorismo, incluindo a Lei de Luxemburgo de 12 de novembro de 2004, conforme alterada, diretivas e regulamentos da UE sobre AML, e, quando aplicável, a Lei brasileira nº 9.613/1998. Qualquer contratação dos Serviços está condicionada à conclusão satisfatória dos procedimentos de identificação, verificação, origem de recursos e triagem de sanções.",
-        p2: "Você declara que não está sujeito, nem é controlado por pessoa sujeita, a sanções administradas pela União Europeia, pelas Nações Unidas, pelo U.S. Office of Foreign Assets Control (OFAC), pelo His Majesty's Treasury (Reino Unido) ou por autoridade equivalente, e que sua utilização do Website e qualquer relação com a Lumnis não violará leis de sanções ou controle de exportação aplicáveis.",
+        p: "A Odara conduz suas atividades em conformidade com a legislação aplicável de prevenção à lavagem de dinheiro e ao financiamento do terrorismo, incluindo a Lei de Luxemburgo de 12 de novembro de 2004, conforme alterada, diretivas e regulamentos da UE sobre AML, e, quando aplicável, a Lei brasileira nº 9.613/1998. Qualquer contratação dos Serviços está condicionada à conclusão satisfatória dos procedimentos de identificação, verificação, origem de recursos e triagem de sanções.",
+        p2: "Você declara que não está sujeito, nem é controlado por pessoa sujeita, a sanções administradas pela União Europeia, pelas Nações Unidas, pelo U.S. Office of Foreign Assets Control (OFAC), pelo His Majesty's Treasury (Reino Unido) ou por autoridade equivalente, e que sua utilização do Website e qualquer relação com a Odara não violará leis de sanções ou controle de exportação aplicáveis.",
       },
       {
         h: "9. Propriedade Intelectual",
-        p: "O Website e todo o Conteúdo — incluindo o nome Lumnis, logotipo, elementos de marca, textos, metodologias, análises, apresentações, gráficos e design — pertencem ou são licenciados à Lumnis e são protegidos por direitos autorais, marcas registradas e demais leis de propriedade intelectual de Luxemburgo, da União Europeia, do Brasil e de tratados internacionais.",
+        p: "O Website e todo o Conteúdo — incluindo o nome Odara, logotipo, elementos de marca, textos, metodologias, análises, apresentações, gráficos e design — pertencem ou são licenciados à Odara e são protegidos por direitos autorais, marcas registradas e demais leis de propriedade intelectual de Luxemburgo, da União Europeia, do Brasil e de tratados internacionais.",
         p2: "É concedida a você licença limitada, não exclusiva, intransferível e revogável para acessar o Website e visualizar, baixar e imprimir Conteúdo exclusivamente para sua avaliação interna e não comercial dos Serviços, desde que mantidos todos os avisos de propriedade. Qualquer outro uso — incluindo reprodução, modificação, distribuição, republicação, enquadramento (framing), raspagem (scraping), mineração de texto e dados, ou treinamento de modelos de inteligência artificial com o Conteúdo — é proibido sem nosso consentimento prévio por escrito.",
       },
       {
@@ -247,15 +247,15 @@ const content = {
       },
       {
         h: "11. Comunicações Eletrônicas e Formulários de Contato",
-        p: "Informações enviadas por meio de formulários de contato, e-mail ou outros canais eletrônicos não têm garantia de segurança, confidencialidade ou recebimento. Não transmita informações sensíveis, confidenciais ou preço-sensíveis através do Website. O envio de informações à Lumnis não cria qualquer relação de assessoria, fiduciária, de mandato ou de cliente, que somente pode ser estabelecida por meio de acordo escrito devidamente firmado e conclusão dos procedimentos de onboarding.",
+        p: "Informações enviadas por meio de formulários de contato, e-mail ou outros canais eletrônicos não têm garantia de segurança, confidencialidade ou recebimento. Não transmita informações sensíveis, confidenciais ou preço-sensíveis através do Website. O envio de informações à Odara não cria qualquer relação de assessoria, fiduciária, de mandato ou de cliente, que somente pode ser estabelecida por meio de acordo escrito devidamente firmado e conclusão dos procedimentos de onboarding.",
       },
       {
         h: "12. Proteção de Dados — GDPR e LGPD",
-        p: "A Lumnis trata dados pessoais em conformidade com as Leis de Proteção de Dados. Esta Seção apresenta um resumo; os detalhes completos constam da nossa Política de Privacidade, disponível em www.lumnis.lu/privacy, que prevalece em caso de divergência.",
+        p: "A Odara trata dados pessoais em conformidade com as Leis de Proteção de Dados. Esta Seção apresenta um resumo; os detalhes completos constam da nossa Política de Privacidade, disponível em www.odara.lu/privacy, que prevalece em caso de divergência.",
         subsections: [
           {
             h: "12.1 Controlador e contato",
-            p: "O controlador dos dados pessoais coletados através do Website é a Lumnis Capital Partners SPV, com sede em 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxemburgo, e-mail: contact@lumniscapital.com.",
+            p: "O controlador dos dados pessoais coletados através do Website é a Odara Capital Partners SPV, com sede em 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxemburgo, e-mail: contact@odaracapital.com.",
           },
           {
             h: "12.2 Categorias de dados e finalidades",
@@ -275,7 +275,7 @@ const content = {
           },
           {
             h: "12.6 Seus direitos",
-            p: "Sujeito a condições e exceções legais, você possui os direitos de acesso, retificação, eliminação, restrição, portabilidade e oposição sob o GDPR, e os direitos correspondentes do Artigo 18 da LGPD, incluindo confirmação do tratamento, anonimização ou bloqueio de dados desnecessários, informação sobre compartilhamento, e revisão de decisões automatizadas. Solicitações podem ser enviadas a contact@lumniscapital.com. Você também pode apresentar reclamação à Commission Nationale pour la Protection des Données (CNPD) de Luxemburgo, à autoridade supervisora de sua residência habitual na UE, ou à Autoridade Nacional de Proteção de Dados (ANPD) do Brasil.",
+            p: "Sujeito a condições e exceções legais, você possui os direitos de acesso, retificação, eliminação, restrição, portabilidade e oposição sob o GDPR, e os direitos correspondentes do Artigo 18 da LGPD, incluindo confirmação do tratamento, anonimização ou bloqueio de dados desnecessários, informação sobre compartilhamento, e revisão de decisões automatizadas. Solicitações podem ser enviadas a contact@odaracapital.com. Você também pode apresentar reclamação à Commission Nationale pour la Protection des Données (CNPD) de Luxemburgo, à autoridade supervisora de sua residência habitual na UE, ou à Autoridade Nacional de Proteção de Dados (ANPD) do Brasil.",
           },
           {
             h: "12.7 Segurança",
@@ -289,20 +289,20 @@ const content = {
       },
       {
         h: "14. Websites e Conteúdo de Terceiros",
-        p: "O Website pode conter links para websites de terceiros, incluindo parceiros, prestadores de serviço e fontes de dados de mercado. Tais links são fornecidos apenas por conveniência. A Lumnis não controla, endossa nem assume responsabilidade pelo conteúdo, segurança ou práticas de privacidade de websites de terceiros, regidos por seus próprios termos e políticas.",
+        p: "O Website pode conter links para websites de terceiros, incluindo parceiros, prestadores de serviço e fontes de dados de mercado. Tais links são fornecidos apenas por conveniência. A Odara não controla, endossa nem assume responsabilidade pelo conteúdo, segurança ou práticas de privacidade de websites de terceiros, regidos por seus próprios termos e políticas.",
       },
       {
         h: "15. Isenção de Garantias",
-        p: "O Website e o Conteúdo são fornecidos \"no estado em que se encontram\" e \"conforme disponibilidade\". Na máxima extensão permitida pela lei aplicável, a Lumnis isenta-se de todas as garantias, expressas ou implícitas, incluindo quanto a precisão, integralidade, tempestividade, comercialização, adequação a finalidade específica, não violação, disponibilidade e ausência de erros ou componentes nocivos. A Lumnis não garante que o Website será ininterrupto, seguro ou livre de erros, e pode modificar, suspender ou descontinuar o Website a qualquer momento, sem aviso prévio.",
+        p: "O Website e o Conteúdo são fornecidos \"no estado em que se encontram\" e \"conforme disponibilidade\". Na máxima extensão permitida pela lei aplicável, a Odara isenta-se de todas as garantias, expressas ou implícitas, incluindo quanto a precisão, integralidade, tempestividade, comercialização, adequação a finalidade específica, não violação, disponibilidade e ausência de erros ou componentes nocivos. A Odara não garante que o Website será ininterrupto, seguro ou livre de erros, e pode modificar, suspender ou descontinuar o Website a qualquer momento, sem aviso prévio.",
       },
       {
         h: "16. Limitação de Responsabilidade",
-        p: "Na máxima extensão permitida pela lei aplicável, a Lumnis, seus acionistas, diretores, dirigentes, funcionários, agentes e assessores não serão responsáveis por danos indiretos, incidentais, especiais, consequenciais ou punitivos, ou por perda de lucros, receita, negócios, oportunidade, fundo de comércio ou dados, decorrentes do uso ou impossibilidade de uso do Website ou de confiança em qualquer Conteúdo, seja em contrato, responsabilidade civil (incluindo negligência) ou de outra forma, mesmo que avisados da possibilidade de tais danos.",
+        p: "Na máxima extensão permitida pela lei aplicável, a Odara, seus acionistas, diretores, dirigentes, funcionários, agentes e assessores não serão responsáveis por danos indiretos, incidentais, especiais, consequenciais ou punitivos, ou por perda de lucros, receita, negócios, oportunidade, fundo de comércio ou dados, decorrentes do uso ou impossibilidade de uso do Website ou de confiança em qualquer Conteúdo, seja em contrato, responsabilidade civil (incluindo negligência) ou de outra forma, mesmo que avisados da possibilidade de tais danos.",
         p2: "Nada nestes Termos exclui ou limita a responsabilidade por fraude, conduta dolosa ou culpa grave, ou qualquer outra responsabilidade que não possa ser excluída ou limitada por disposições legais imperativas, incluindo, quando aplicável a consumidores, regras imperativas do Código Civil e do Código de Defesa do Consumidor brasileiros.",
       },
       {
         h: "17. Indenização",
-        p: "Você concorda em indenizar e isentar a Lumnis e suas afiliadas, diretores, dirigentes e funcionários de quaisquer reclamações, responsabilidades, danos, perdas e despesas (incluindo honorários advocatícios razoáveis) decorrentes de violação destes Termos, uso indevido do Website, ou violação de qualquer lei ou direito de terceiro por sua parte.",
+        p: "Você concorda em indenizar e isentar a Odara e suas afiliadas, diretores, dirigentes e funcionários de quaisquer reclamações, responsabilidades, danos, perdas e despesas (incluindo honorários advocatícios razoáveis) decorrentes de violação destes Termos, uso indevido do Website, ou violação de qualquer lei ou direito de terceiro por sua parte.",
       },
       {
         h: "18. Alterações",
@@ -317,15 +317,15 @@ const content = {
           },
           {
             label: "Não renúncia.",
-            text: "A falha ou demora da Lumnis em exercer qualquer direito previsto nestes Termos não constitui renúncia a esse direito.",
+            text: "A falha ou demora da Odara em exercer qualquer direito previsto nestes Termos não constitui renúncia a esse direito.",
           },
           {
             label: "Cessão.",
-            text: "Você não pode ceder seus direitos ou obrigações sob estes Termos. A Lumnis pode ceder estes Termos a uma afiliada ou sucessora.",
+            text: "Você não pode ceder seus direitos ou obrigações sob estes Termos. A Odara pode ceder estes Termos a uma afiliada ou sucessora.",
           },
           {
             label: "Acordo integral.",
-            text: "Estes Termos, em conjunto com a Política de Privacidade, constituem o acordo integral entre você e a Lumnis quanto ao uso do Website, substituindo entendimentos anteriores sobre a matéria. Não regem os Serviços, sujeitos a acordos escritos específicos.",
+            text: "Estes Termos, em conjunto com a Política de Privacidade, constituem o acordo integral entre você e a Odara quanto ao uso do Website, substituindo entendimentos anteriores sobre a matéria. Não regem os Serviços, sujeitos a acordos escritos específicos.",
           },
           {
             label: "Idiomas.",
@@ -339,9 +339,9 @@ const content = {
       },
       {
         h: "21. Contato",
-        p: "Lumnis Capital Partners",
+        p: "Odara Capital Partners",
         p2: "Sede: 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxemburgo, Grão-Ducado de Luxemburgo — RCS Luxembourg.",
-        p3: "Contato geral e proteção de dados: contact@lumniscapital.com",
+        p3: "Contato geral e proteção de dados: contact@odaracapital.com",
       },
     ],
   },
@@ -352,7 +352,7 @@ const content = {
     sections: [
       {
         h: "1. Aceptación de estos Términos",
-        p: "Estos Términos de Uso (los \"Términos\") rigen el acceso y la utilización del sitio web www.lumnis.lu (el \"Sitio Web\"), operado por Lumnis Capital Partners SPV, sociedad constituida conforme a las leyes del Gran Ducado de Luxemburgo, con domicilio social en 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxemburgo, inscrita en el Registro Mercantil y de Sociedades de Luxemburgo (RCS Luxembourg).",
+        p: "Estos Términos de Uso (los \"Términos\") rigen el acceso y la utilización del sitio web www.odara.lu (el \"Sitio Web\"), operado por Odara Capital Partners SPV, sociedad constituida conforme a las leyes del Gran Ducado de Luxemburgo, con domicilio social en 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxemburgo, inscrita en el Registro Mercantil y de Sociedades de Luxemburgo (RCS Luxembourg).",
         p2: "Al acceder o utilizar el Sitio Web, usted confirma que ha leído, comprendido y acepta quedar vinculado por estos Términos y por nuestro Aviso de Privacidad y nuestra Política de Cookies, incorporados por referencia. Si no está de acuerdo con estos Términos, no debe acceder ni utilizar el Sitio Web.",
         p3: "Si accede al Sitio Web en nombre de una sociedad, fondo, institución u otra persona jurídica, usted declara y garantiza estar debidamente autorizado para vincular a dicha entidad, y el término \"usted\" se referirá a esa entidad.",
       },
@@ -379,9 +379,9 @@ const content = {
       },
       {
         h: "5. Estatus Regulatorio",
-        p: "Lumnis opera a través de un vehículo de titulización luxemburgués constituido conforme a la Ley de Luxemburgo de 22 de marzo de 2004 sobre titulización, en su versión modificada (la \"Ley de Titulización\"), estructurado en múltiples compartimentos, cada uno de ellos legalmente segregado.",
-        p2: "Lumnis no es una entidad de crédito autorizada, una empresa de inversión, una gestora de fondos de inversión alternativos ni una aseguradora, y no mantiene fondos de clientes ni presta servicios de custodia. Lumnis no presta asesoramiento en materia de inversión, gestión de carteras, ni asesoramiento jurídico, fiscal, contable o regulatorio.",
-        p3: "Las referencias en el Sitio Web a \"socios\", \"asociación\" o expresiones similares describen relaciones comerciales y no implican la existencia de una sociedad, empresa conjunta (joint venture) o mandato entre Lumnis y cualquier tercero.",
+        p: "Odara opera a través de un vehículo de titulización luxemburgués constituido conforme a la Ley de Luxemburgo de 22 de marzo de 2004 sobre titulización, en su versión modificada (la \"Ley de Titulización\"), estructurado en múltiples compartimentos, cada uno de ellos legalmente segregado.",
+        p2: "Odara no es una entidad de crédito autorizada, una empresa de inversión, una gestora de fondos de inversión alternativos ni una aseguradora, y no mantiene fondos de clientes ni presta servicios de custodia. Odara no presta asesoramiento en materia de inversión, gestión de carteras, ni asesoramiento jurídico, fiscal, contable o regulatorio.",
+        p3: "Las referencias en el Sitio Web a \"socios\", \"asociación\" o expresiones similares describen relaciones comerciales y no implican la existencia de una sociedad, empresa conjunta (joint venture) o mandato entre Odara y cualquier tercero.",
       },
       {
         h: "6. Ausencia de Asesoramiento; Evaluación Independiente",
@@ -391,16 +391,16 @@ const content = {
       {
         h: "7. Rendimiento, Proyecciones y Advertencia de Riesgo",
         p: "Las operaciones de crédito estructurado y deuda privada implican riesgos significativos, incluyendo riesgo de crédito, riesgo de liquidez, riesgo cambiario y de transferencia, riesgo de mercados emergentes, riesgo jurídico y de ejecución, y riesgo de pérdida total del principal. La rentabilidad pasada no es indicativa de resultados futuros. No se realiza declaración alguna, ni se otorga garantía alguna, en cuanto al rendimiento futuro, la rentabilidad, el pago o el resultado de cualquier operación, línea o instrumento.",
-        p2: "Cualquier declaración prospectiva, meta, escenario o cifra ilustrativa contenida en el Sitio Web refleja premisas vigentes en la fecha de publicación, está sujeta a modificación sin previo aviso, y conlleva riesgos e incertidumbres conocidos y desconocidos. Los resultados reales podrán diferir sustancialmente. Lumnis no asume obligación alguna de actualizar ninguna declaración prospectiva.",
+        p2: "Cualquier declaración prospectiva, meta, escenario o cifra ilustrativa contenida en el Sitio Web refleja premisas vigentes en la fecha de publicación, está sujeta a modificación sin previo aviso, y conlleva riesgos e incertidumbres conocidos y desconocidos. Los resultados reales podrán diferir sustancialmente. Odara no asume obligación alguna de actualizar ninguna declaración prospectiva.",
       },
       {
         h: "8. Prevención del Blanqueo de Capitales, Sanciones y Conocimiento del Cliente",
-        p: "Lumnis desarrolla sus actividades en cumplimiento de la legislación aplicable en materia de prevención del blanqueo de capitales y de la financiación del terrorismo, incluyendo la Ley de Luxemburgo de 12 de noviembre de 2004, en su versión modificada, las directivas y reglamentos de la UE en materia de PBC/FT, y, cuando resulte aplicable, la Ley brasileña n.º 9.613/1998. Toda contratación de los Servicios está condicionada a la conclusión satisfactoria de los procedimientos de identificación, verificación, origen de fondos y control de sanciones.",
-        p2: "Usted declara que no está sujeto, ni controlado por una persona sujeta, a sanciones administradas por la Unión Europea, las Naciones Unidas, la U.S. Office of Foreign Assets Control (OFAC), el His Majesty's Treasury (Reino Unido) o cualquier autoridad equivalente, y que su utilización del Sitio Web y cualquier relación con Lumnis no infringirá las leyes de sanciones o de control de exportaciones aplicables.",
+        p: "Odara desarrolla sus actividades en cumplimiento de la legislación aplicable en materia de prevención del blanqueo de capitales y de la financiación del terrorismo, incluyendo la Ley de Luxemburgo de 12 de noviembre de 2004, en su versión modificada, las directivas y reglamentos de la UE en materia de PBC/FT, y, cuando resulte aplicable, la Ley brasileña n.º 9.613/1998. Toda contratación de los Servicios está condicionada a la conclusión satisfactoria de los procedimientos de identificación, verificación, origen de fondos y control de sanciones.",
+        p2: "Usted declara que no está sujeto, ni controlado por una persona sujeta, a sanciones administradas por la Unión Europea, las Naciones Unidas, la U.S. Office of Foreign Assets Control (OFAC), el His Majesty's Treasury (Reino Unido) o cualquier autoridad equivalente, y que su utilización del Sitio Web y cualquier relación con Odara no infringirá las leyes de sanciones o de control de exportaciones aplicables.",
       },
       {
         h: "9. Propiedad Intelectual",
-        p: "El Sitio Web y todo el Contenido — incluyendo el nombre Lumnis, el logotipo, los elementos de marca, textos, metodologías, análisis, presentaciones, gráficos y diseño — pertenecen a Lumnis o le son licenciados, y están protegidos por derechos de autor, marcas registradas y demás leyes de propiedad intelectual de Luxemburgo, de la Unión Europea, de Brasil y de los tratados internacionales.",
+        p: "El Sitio Web y todo el Contenido — incluyendo el nombre Odara, el logotipo, los elementos de marca, textos, metodologías, análisis, presentaciones, gráficos y diseño — pertenecen a Odara o le son licenciados, y están protegidos por derechos de autor, marcas registradas y demás leyes de propiedad intelectual de Luxemburgo, de la Unión Europea, de Brasil y de los tratados internacionales.",
         p2: "Se le concede una licencia limitada, no exclusiva, intransferible y revocable para acceder al Sitio Web y visualizar, descargar e imprimir Contenido exclusivamente para su evaluación interna y no comercial de los Servicios, siempre que se mantengan todos los avisos de propiedad. Cualquier otro uso — incluyendo la reproducción, modificación, distribución, republicación, encuadre (framing), extracción (scraping), minería de texto y datos, o el entrenamiento de modelos de inteligencia artificial con el Contenido — está prohibido sin nuestro consentimiento previo por escrito.",
       },
       {
@@ -418,15 +418,15 @@ const content = {
       },
       {
         h: "11. Comunicaciones Electrónicas y Formularios de Contacto",
-        p: "La información enviada a través de formularios de contacto, correo electrónico u otros canales electrónicos no cuenta con garantía de seguridad, confidencialidad o recepción. No transmita información sensible, confidencial o sensible al precio a través del Sitio Web. El envío de información a Lumnis no crea relación de asesoramiento, fiduciaria, de mandato o de cliente, la cual únicamente puede establecerse mediante acuerdo escrito debidamente formalizado y la conclusión de los procedimientos de incorporación (onboarding).",
+        p: "La información enviada a través de formularios de contacto, correo electrónico u otros canales electrónicos no cuenta con garantía de seguridad, confidencialidad o recepción. No transmita información sensible, confidencial o sensible al precio a través del Sitio Web. El envío de información a Odara no crea relación de asesoramiento, fiduciaria, de mandato o de cliente, la cual únicamente puede establecerse mediante acuerdo escrito debidamente formalizado y la conclusión de los procedimientos de incorporación (onboarding).",
       },
       {
         h: "12. Protección de Datos — RGPD y LGPD",
-        p: "Lumnis trata los datos personales de conformidad con las Leyes de Protección de Datos. Esta Sección constituye un resumen; los detalles completos figuran en nuestro Aviso de Privacidad, disponible en www.lumnis.lu/privacy, que prevalecerá en caso de discrepancia.",
+        p: "Odara trata los datos personales de conformidad con las Leyes de Protección de Datos. Esta Sección constituye un resumen; los detalles completos figuran en nuestro Aviso de Privacidad, disponible en www.odara.lu/privacy, que prevalecerá en caso de discrepancia.",
         subsections: [
           {
             h: "12.1 Responsable del tratamiento y contacto",
-            p: "El responsable del tratamiento de los datos personales recabados a través del Sitio Web es Lumnis Capital Partners SPV, con domicilio social en 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxemburgo, correo electrónico: contact@lumniscapital.com.",
+            p: "El responsable del tratamiento de los datos personales recabados a través del Sitio Web es Odara Capital Partners SPV, con domicilio social en 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxemburgo, correo electrónico: contact@odaracapital.com.",
           },
           {
             h: "12.2 Categorías de datos y finalidades",
@@ -446,7 +446,7 @@ const content = {
           },
           {
             h: "12.6 Sus derechos",
-            p: "Sujeto a las condiciones y excepciones legales, usted dispone de los derechos de acceso, rectificación, supresión, limitación, portabilidad y oposición conforme al RGPD, y de los derechos correspondientes del Artículo 18 de la LGPD, incluyendo la confirmación del tratamiento, la anonimización o el bloqueo de datos innecesarios, la información sobre las cesiones de datos, y la revisión de decisiones automatizadas. Las solicitudes pueden dirigirse a contact@lumniscapital.com. Usted también puede presentar una reclamación ante la Commission Nationale pour la Protection des Données (CNPD) de Luxemburgo, ante la autoridad de control de su residencia habitual en la UE, o ante la Autoridade Nacional de Proteção de Dados (ANPD) de Brasil.",
+            p: "Sujeto a las condiciones y excepciones legales, usted dispone de los derechos de acceso, rectificación, supresión, limitación, portabilidad y oposición conforme al RGPD, y de los derechos correspondientes del Artículo 18 de la LGPD, incluyendo la confirmación del tratamiento, la anonimización o el bloqueo de datos innecesarios, la información sobre las cesiones de datos, y la revisión de decisiones automatizadas. Las solicitudes pueden dirigirse a contact@odaracapital.com. Usted también puede presentar una reclamación ante la Commission Nationale pour la Protection des Données (CNPD) de Luxemburgo, ante la autoridad de control de su residencia habitual en la UE, o ante la Autoridade Nacional de Proteção de Dados (ANPD) de Brasil.",
           },
           {
             h: "12.7 Seguridad",
@@ -460,20 +460,20 @@ const content = {
       },
       {
         h: "14. Sitios Web y Contenido de Terceros",
-        p: "El Sitio Web puede contener enlaces a sitios web de terceros, incluyendo socios, proveedores de servicios y fuentes de datos de mercado. Dichos enlaces se facilitan únicamente por conveniencia. Lumnis no controla, avala ni asume responsabilidad alguna por el contenido, la seguridad o las prácticas de privacidad de los sitios web de terceros, los cuales se rigen por sus propios términos y políticas.",
+        p: "El Sitio Web puede contener enlaces a sitios web de terceros, incluyendo socios, proveedores de servicios y fuentes de datos de mercado. Dichos enlaces se facilitan únicamente por conveniencia. Odara no controla, avala ni asume responsabilidad alguna por el contenido, la seguridad o las prácticas de privacidad de los sitios web de terceros, los cuales se rigen por sus propios términos y políticas.",
       },
       {
         h: "15. Exclusión de Garantías",
-        p: "El Sitio Web y el Contenido se proporcionan \"tal cual\" y \"según disponibilidad\". En la máxima medida permitida por la ley aplicable, Lumnis renuncia a toda garantía, expresa o implícita, incluyendo en cuanto a exactitud, integridad, oportunidad, comerciabilidad, idoneidad para un fin determinado, no vulneración, disponibilidad y ausencia de errores o componentes dañinos. Lumnis no garantiza que el Sitio Web será ininterrumpido, seguro o estará libre de errores, y podrá modificar, suspender o discontinuar el Sitio Web en cualquier momento, sin previo aviso.",
+        p: "El Sitio Web y el Contenido se proporcionan \"tal cual\" y \"según disponibilidad\". En la máxima medida permitida por la ley aplicable, Odara renuncia a toda garantía, expresa o implícita, incluyendo en cuanto a exactitud, integridad, oportunidad, comerciabilidad, idoneidad para un fin determinado, no vulneración, disponibilidad y ausencia de errores o componentes dañinos. Odara no garantiza que el Sitio Web será ininterrumpido, seguro o estará libre de errores, y podrá modificar, suspender o discontinuar el Sitio Web en cualquier momento, sin previo aviso.",
       },
       {
         h: "16. Limitación de Responsabilidad",
-        p: "En la máxima medida permitida por la ley aplicable, Lumnis, sus accionistas, administradores, directivos, empleados, agentes y asesores no serán responsables de daños indirectos, incidentales, especiales, consecuenciales o punitivos, ni de la pérdida de beneficios, ingresos, negocio, oportunidad, fondo de comercio o datos, derivados del uso o de la imposibilidad de uso del Sitio Web o de la confianza depositada en cualquier Contenido, ya sea en virtud de contrato, responsabilidad extracontractual (incluida la negligencia) o de otro modo, incluso si se hubiera advertido de la posibilidad de tales daños.",
+        p: "En la máxima medida permitida por la ley aplicable, Odara, sus accionistas, administradores, directivos, empleados, agentes y asesores no serán responsables de daños indirectos, incidentales, especiales, consecuenciales o punitivos, ni de la pérdida de beneficios, ingresos, negocio, oportunidad, fondo de comercio o datos, derivados del uso o de la imposibilidad de uso del Sitio Web o de la confianza depositada en cualquier Contenido, ya sea en virtud de contrato, responsabilidad extracontractual (incluida la negligencia) o de otro modo, incluso si se hubiera advertido de la posibilidad de tales daños.",
         p2: "Nada en estos Términos excluye o limita la responsabilidad por fraude, dolo o culpa grave, ni cualquier otra responsabilidad que no pueda excluirse o limitarse conforme a disposiciones legales imperativas, incluyendo, cuando resulten aplicables a consumidores, las normas imperativas del Código Civil y del Código de Defensa del Consumidor brasileños.",
       },
       {
         h: "17. Indemnización",
-        p: "Usted se compromete a indemnizar y mantener indemne a Lumnis y a sus afiliadas, administradores, directivos y empleados frente a cualquier reclamación, responsabilidad, daño, pérdida y gasto (incluyendo honorarios de abogados razonables) derivados del incumplimiento de estos Términos, del uso indebido del Sitio Web, o de la infracción por su parte de cualquier ley o derecho de terceros.",
+        p: "Usted se compromete a indemnizar y mantener indemne a Odara y a sus afiliadas, administradores, directivos y empleados frente a cualquier reclamación, responsabilidad, daño, pérdida y gasto (incluyendo honorarios de abogados razonables) derivados del incumplimiento de estos Términos, del uso indebido del Sitio Web, o de la infracción por su parte de cualquier ley o derecho de terceros.",
       },
       {
         h: "18. Modificaciones",
@@ -488,15 +488,15 @@ const content = {
           },
           {
             label: "No renuncia.",
-            text: "La falta de ejercicio o el retraso de Lumnis en el ejercicio de cualquier derecho previsto en estos Términos no constituirá una renuncia a dicho derecho.",
+            text: "La falta de ejercicio o el retraso de Odara en el ejercicio de cualquier derecho previsto en estos Términos no constituirá una renuncia a dicho derecho.",
           },
           {
             label: "Cesión.",
-            text: "Usted no podrá ceder sus derechos u obligaciones en virtud de estos Términos. Lumnis podrá ceder estos Términos a una afiliada o sucesora.",
+            text: "Usted no podrá ceder sus derechos u obligaciones en virtud de estos Términos. Odara podrá ceder estos Términos a una afiliada o sucesora.",
           },
           {
             label: "Acuerdo íntegro.",
-            text: "Estos Términos, junto con el Aviso de Privacidad, constituyen el acuerdo íntegro entre usted y Lumnis en relación con el uso del Sitio Web, y sustituyen cualquier entendimiento previo sobre la materia. No rigen los Servicios, que están sujetos a acuerdos escritos independientes.",
+            text: "Estos Términos, junto con el Aviso de Privacidad, constituyen el acuerdo íntegro entre usted y Odara en relación con el uso del Sitio Web, y sustituyen cualquier entendimiento previo sobre la materia. No rigen los Servicios, que están sujetos a acuerdos escritos independientes.",
           },
           {
             label: "Idiomas.",
@@ -510,9 +510,9 @@ const content = {
       },
       {
         h: "21. Contacto",
-        p: "Lumnis Capital Partners",
+        p: "Odara Capital Partners",
         p2: "Domicilio social: 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxemburgo, Gran Ducado de Luxemburgo — RCS Luxembourg.",
-        p3: "Consultas generales y protección de datos: contact@lumniscapital.com",
+        p3: "Consultas generales y protección de datos: contact@odaracapital.com",
       },
     ],
   },
@@ -523,7 +523,7 @@ const content = {
     sections: [
       {
         h: "1. Acceptation des présentes Conditions",
-        p: "Les présentes Conditions d'Utilisation (les « Conditions ») régissent l'accès au site internet www.lumnis.lu (le « Site Internet ») et son utilisation, exploité par Lumnis Capital Partners SPV, société constituée selon les lois du Grand-Duché de Luxembourg, dont le siège social est établi au 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxembourg, immatriculée au Registre de Commerce et des Sociétés de Luxembourg (RCS Luxembourg).",
+        p: "Les présentes Conditions d'Utilisation (les « Conditions ») régissent l'accès au site internet www.odara.lu (le « Site Internet ») et son utilisation, exploité par Odara Capital Partners SPV, société constituée selon les lois du Grand-Duché de Luxembourg, dont le siège social est établi au 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxembourg, immatriculée au Registre de Commerce et des Sociétés de Luxembourg (RCS Luxembourg).",
         p2: "En accédant au Site Internet ou en l'utilisant, vous confirmez avoir lu et compris les présentes Conditions ainsi que notre Avis de Confidentialité et notre Politique en matière de Cookies, incorporés par référence, et accepter d'y être lié. Si vous n'acceptez pas les présentes Conditions, vous ne devez pas accéder au Site Internet ni l'utiliser.",
         p3: "Si vous accédez au Site Internet pour le compte d'une société, d'un fonds, d'une institution ou de toute autre personne morale, vous déclarez et garantissez être dûment autorisé à engager cette entité, et le terme « vous » désignera alors cette entité.",
       },
@@ -550,9 +550,9 @@ const content = {
       },
       {
         h: "5. Statut Réglementaire",
-        p: "Lumnis opère par l'intermédiaire d'un véhicule de titrisation luxembourgeois constitué en vertu de la loi luxembourgeoise du 22 mars 2004 relative à la titrisation, telle que modifiée (la « Loi sur la Titrisation »), structuré en plusieurs compartiments, chacun juridiquement isolé.",
-        p2: "Lumnis n'est ni un établissement de crédit agréé, ni une entreprise d'investissement, ni un gestionnaire de fonds d'investissement alternatifs, ni une entreprise d'assurance, et ne détient pas de fonds de clients ni ne fournit de services de garde. Lumnis ne fournit pas de conseil en investissement, de gestion de portefeuille, ni de conseil juridique, fiscal, comptable ou réglementaire.",
-        p3: "Les références sur le Site Internet à des « partenaires », « partenariat » ou expressions similaires décrivent des relations commerciales et n'impliquent l'existence d'aucune société, coentreprise (joint venture) ou mandat entre Lumnis et un tiers quelconque.",
+        p: "Odara opère par l'intermédiaire d'un véhicule de titrisation luxembourgeois constitué en vertu de la loi luxembourgeoise du 22 mars 2004 relative à la titrisation, telle que modifiée (la « Loi sur la Titrisation »), structuré en plusieurs compartiments, chacun juridiquement isolé.",
+        p2: "Odara n'est ni un établissement de crédit agréé, ni une entreprise d'investissement, ni un gestionnaire de fonds d'investissement alternatifs, ni une entreprise d'assurance, et ne détient pas de fonds de clients ni ne fournit de services de garde. Odara ne fournit pas de conseil en investissement, de gestion de portefeuille, ni de conseil juridique, fiscal, comptable ou réglementaire.",
+        p3: "Les références sur le Site Internet à des « partenaires », « partenariat » ou expressions similaires décrivent des relations commerciales et n'impliquent l'existence d'aucune société, coentreprise (joint venture) ou mandat entre Odara et un tiers quelconque.",
       },
       {
         h: "6. Absence de Conseil ; Évaluation Indépendante",
@@ -562,16 +562,16 @@ const content = {
       {
         h: "7. Performance, Projections et Avertissement sur les Risques",
         p: "Les opérations de crédit structuré et de dette privée comportent des risques importants, notamment un risque de crédit, un risque de liquidité, un risque de change et de transfert, un risque lié aux marchés émergents, un risque juridique et d'exécution, ainsi qu'un risque de perte totale du principal. Les performances passées ne préjugent pas des résultats futurs. Aucune déclaration n'est faite et aucune garantie n'est donnée quant à la performance future, au rendement, au paiement ou au résultat de toute opération, facilité ou instrument.",
-        p2: "Toute déclaration prospective, tout objectif, scénario ou chiffre illustratif figurant sur le Site Internet reflète des hypothèses en vigueur à la date de publication, est susceptible d'être modifié sans préavis, et comporte des risques et incertitudes connus et inconnus. Les résultats réels pourraient différer sensiblement. Lumnis n'assume aucune obligation de mise à jour de toute déclaration prospective.",
+        p2: "Toute déclaration prospective, tout objectif, scénario ou chiffre illustratif figurant sur le Site Internet reflète des hypothèses en vigueur à la date de publication, est susceptible d'être modifié sans préavis, et comporte des risques et incertitudes connus et inconnus. Les résultats réels pourraient différer sensiblement. Odara n'assume aucune obligation de mise à jour de toute déclaration prospective.",
       },
       {
         h: "8. Lutte Anti-Blanchiment, Sanctions et Connaissance du Client",
-        p: "Lumnis exerce ses activités dans le respect de la législation applicable en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme, notamment la loi luxembourgeoise du 12 novembre 2004, telle que modifiée, les directives et règlements de l'UE en matière de LBC, et, le cas échéant, la loi brésilienne n° 9.613/1998. Tout recours aux Services est subordonné à l'achèvement satisfaisant des procédures d'identification, de vérification, d'origine des fonds et de filtrage des sanctions.",
-        p2: "Vous déclarez ne pas être soumis, ni contrôlé par une personne soumise, à des sanctions administrées par l'Union européenne, les Nations Unies, l'U.S. Office of Foreign Assets Control (OFAC), le His Majesty's Treasury (Royaume-Uni) ou toute autorité équivalente, et que votre utilisation du Site Internet ainsi que toute relation avec Lumnis n'enfreindra pas les lois applicables en matière de sanctions ou de contrôle des exportations.",
+        p: "Odara exerce ses activités dans le respect de la législation applicable en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme, notamment la loi luxembourgeoise du 12 novembre 2004, telle que modifiée, les directives et règlements de l'UE en matière de LBC, et, le cas échéant, la loi brésilienne n° 9.613/1998. Tout recours aux Services est subordonné à l'achèvement satisfaisant des procédures d'identification, de vérification, d'origine des fonds et de filtrage des sanctions.",
+        p2: "Vous déclarez ne pas être soumis, ni contrôlé par une personne soumise, à des sanctions administrées par l'Union européenne, les Nations Unies, l'U.S. Office of Foreign Assets Control (OFAC), le His Majesty's Treasury (Royaume-Uni) ou toute autorité équivalente, et que votre utilisation du Site Internet ainsi que toute relation avec Odara n'enfreindra pas les lois applicables en matière de sanctions ou de contrôle des exportations.",
       },
       {
         h: "9. Propriété Intellectuelle",
-        p: "Le Site Internet et l'ensemble du Contenu — y compris le nom Lumnis, le logo, les éléments de marque, les textes, méthodologies, analyses, présentations, graphiques et éléments de conception — appartiennent à Lumnis ou lui sont concédés sous licence, et sont protégés par le droit d'auteur, le droit des marques et les autres lois relatives à la propriété intellectuelle du Luxembourg, de l'Union européenne, du Brésil et des traités internationaux.",
+        p: "Le Site Internet et l'ensemble du Contenu — y compris le nom Odara, le logo, les éléments de marque, les textes, méthodologies, analyses, présentations, graphiques et éléments de conception — appartiennent à Odara ou lui sont concédés sous licence, et sont protégés par le droit d'auteur, le droit des marques et les autres lois relatives à la propriété intellectuelle du Luxembourg, de l'Union européenne, du Brésil et des traités internationaux.",
         p2: "Il vous est concédé une licence limitée, non exclusive, incessible et révocable pour accéder au Site Internet et consulter, télécharger et imprimer le Contenu à des fins exclusives d'évaluation interne et non commerciale des Services, sous réserve du maintien de toutes les mentions de propriété. Tout autre usage — y compris la reproduction, la modification, la distribution, la republication, l'encadrement (framing), l'extraction (scraping), la fouille de textes et de données, ou l'entraînement de modèles d'intelligence artificielle à partir du Contenu — est interdit sans notre consentement préalable écrit.",
       },
       {
@@ -589,15 +589,15 @@ const content = {
       },
       {
         h: "11. Communications Électroniques et Formulaires de Contact",
-        p: "Les informations transmises par l'intermédiaire de formulaires de contact, de courrier électronique ou d'autres canaux électroniques ne bénéficient d'aucune garantie de sécurité, de confidentialité ou de réception. Ne transmettez pas d'informations sensibles, confidentielles ou sensibles au regard du prix par l'intermédiaire du Site Internet. La transmission d'informations à Lumnis ne crée aucune relation de conseil, fiduciaire, de mandat ou de clientèle, laquelle ne peut être établie que par voie de convention écrite dûment signée et l'achèvement des procédures d'entrée en relation.",
+        p: "Les informations transmises par l'intermédiaire de formulaires de contact, de courrier électronique ou d'autres canaux électroniques ne bénéficient d'aucune garantie de sécurité, de confidentialité ou de réception. Ne transmettez pas d'informations sensibles, confidentielles ou sensibles au regard du prix par l'intermédiaire du Site Internet. La transmission d'informations à Odara ne crée aucune relation de conseil, fiduciaire, de mandat ou de clientèle, laquelle ne peut être établie que par voie de convention écrite dûment signée et l'achèvement des procédures d'entrée en relation.",
       },
       {
         h: "12. Protection des Données — RGPD et LGPD",
-        p: "Lumnis traite les données à caractère personnel conformément aux Lois sur la Protection des Données. La présente Section constitue un résumé ; les détails complets figurent dans notre Avis de Confidentialité, disponible sur www.lumnis.lu/privacy, qui prévaudra en cas de divergence.",
+        p: "Odara traite les données à caractère personnel conformément aux Lois sur la Protection des Données. La présente Section constitue un résumé ; les détails complets figurent dans notre Avis de Confidentialité, disponible sur www.odara.lu/privacy, qui prévaudra en cas de divergence.",
         subsections: [
           {
             h: "12.1 Responsable du traitement et contact",
-            p: "Le responsable du traitement des données à caractère personnel collectées par l'intermédiaire du Site Internet est Lumnis Capital Partners SPV, dont le siège social est établi au 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxembourg, adresse électronique : contact@lumniscapital.com.",
+            p: "Le responsable du traitement des données à caractère personnel collectées par l'intermédiaire du Site Internet est Odara Capital Partners SPV, dont le siège social est établi au 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxembourg, adresse électronique : contact@odaracapital.com.",
           },
           {
             h: "12.2 Catégories de données et finalités",
@@ -617,7 +617,7 @@ const content = {
           },
           {
             h: "12.6 Vos droits",
-            p: "Sous réserve des conditions et exceptions légales, vous disposez des droits d'accès, de rectification, d'effacement, de limitation, de portabilité et d'opposition au titre du RGPD, ainsi que des droits correspondants prévus à l'Article 18 de la LGPD, notamment la confirmation de l'existence d'un traitement, l'anonymisation ou le blocage des données inutiles, l'information relative au partage des données, et le réexamen des décisions automatisées. Les demandes peuvent être adressées à contact@lumniscapital.com. Vous pouvez également introduire une réclamation auprès de la Commission Nationale pour la Protection des Données (CNPD) du Luxembourg, de l'autorité de contrôle de votre résidence habituelle dans l'UE, ou de l'Autoridade Nacional de Proteção de Dados (ANPD) du Brésil.",
+            p: "Sous réserve des conditions et exceptions légales, vous disposez des droits d'accès, de rectification, d'effacement, de limitation, de portabilité et d'opposition au titre du RGPD, ainsi que des droits correspondants prévus à l'Article 18 de la LGPD, notamment la confirmation de l'existence d'un traitement, l'anonymisation ou le blocage des données inutiles, l'information relative au partage des données, et le réexamen des décisions automatisées. Les demandes peuvent être adressées à contact@odaracapital.com. Vous pouvez également introduire une réclamation auprès de la Commission Nationale pour la Protection des Données (CNPD) du Luxembourg, de l'autorité de contrôle de votre résidence habituelle dans l'UE, ou de l'Autoridade Nacional de Proteção de Dados (ANPD) du Brésil.",
           },
           {
             h: "12.7 Sécurité",
@@ -631,20 +631,20 @@ const content = {
       },
       {
         h: "14. Sites Internet et Contenus de Tiers",
-        p: "Le Site Internet peut contenir des liens vers des sites internet de tiers, notamment des partenaires, prestataires de services et fournisseurs de données de marché. Ces liens sont fournis uniquement à titre de commodité. Lumnis ne contrôle, n'approuve ni n'assume de responsabilité quant au contenu, à la sécurité ou aux pratiques de confidentialité des sites internet de tiers, lesquels sont régis par leurs propres conditions et politiques.",
+        p: "Le Site Internet peut contenir des liens vers des sites internet de tiers, notamment des partenaires, prestataires de services et fournisseurs de données de marché. Ces liens sont fournis uniquement à titre de commodité. Odara ne contrôle, n'approuve ni n'assume de responsabilité quant au contenu, à la sécurité ou aux pratiques de confidentialité des sites internet de tiers, lesquels sont régis par leurs propres conditions et politiques.",
       },
       {
         h: "15. Exclusion de Garanties",
-        p: "Le Site Internet et le Contenu sont fournis « en l'état » et « selon leur disponibilité ». Dans toute la mesure permise par la loi applicable, Lumnis décline toute garantie, expresse ou implicite, notamment quant à l'exactitude, l'exhaustivité, l'actualité, la qualité marchande, l'adéquation à un usage particulier, l'absence de contrefaçon, la disponibilité et l'absence d'erreurs ou de composants nuisibles. Lumnis ne garantit pas que le Site Internet sera ininterrompu, sécurisé ou exempt d'erreurs, et pourra modifier, suspendre ou interrompre le Site Internet à tout moment, sans préavis.",
+        p: "Le Site Internet et le Contenu sont fournis « en l'état » et « selon leur disponibilité ». Dans toute la mesure permise par la loi applicable, Odara décline toute garantie, expresse ou implicite, notamment quant à l'exactitude, l'exhaustivité, l'actualité, la qualité marchande, l'adéquation à un usage particulier, l'absence de contrefaçon, la disponibilité et l'absence d'erreurs ou de composants nuisibles. Odara ne garantit pas que le Site Internet sera ininterrompu, sécurisé ou exempt d'erreurs, et pourra modifier, suspendre ou interrompre le Site Internet à tout moment, sans préavis.",
       },
       {
         h: "16. Limitation de Responsabilité",
-        p: "Dans toute la mesure permise par la loi applicable, Lumnis, ses actionnaires, administrateurs, dirigeants, employés, mandataires et conseillers ne pourront être tenus responsables des dommages indirects, accessoires, spéciaux, consécutifs ou punitifs, ni de la perte de bénéfices, de revenus, d'activité, d'opportunité, de clientèle ou de données, résultant de l'utilisation ou de l'impossibilité d'utiliser le Site Internet ou de la confiance accordée à tout Contenu, que ce soit sur le fondement contractuel, délictuel (y compris la négligence) ou autre, même s'ils ont été informés de la possibilité de tels dommages.",
+        p: "Dans toute la mesure permise par la loi applicable, Odara, ses actionnaires, administrateurs, dirigeants, employés, mandataires et conseillers ne pourront être tenus responsables des dommages indirects, accessoires, spéciaux, consécutifs ou punitifs, ni de la perte de bénéfices, de revenus, d'activité, d'opportunité, de clientèle ou de données, résultant de l'utilisation ou de l'impossibilité d'utiliser le Site Internet ou de la confiance accordée à tout Contenu, que ce soit sur le fondement contractuel, délictuel (y compris la négligence) ou autre, même s'ils ont été informés de la possibilité de tels dommages.",
         p2: "Rien dans les présentes Conditions n'exclut ni ne limite la responsabilité en cas de fraude, de faute intentionnelle ou de faute lourde, ni toute autre responsabilité ne pouvant être exclue ou limitée en vertu de dispositions légales impératives, y compris, lorsqu'elles sont applicables aux consommateurs, les règles impératives du Code civil et du Code de la consommation brésiliens.",
       },
       {
         h: "17. Indemnisation",
-        p: "Vous vous engagez à indemniser Lumnis et ses affiliés, administrateurs, dirigeants et employés, et à les tenir quittes de toute réclamation, responsabilité, dommage, perte et dépense (y compris les honoraires d'avocat raisonnables) résultant d'un manquement aux présentes Conditions, d'une utilisation abusive du Site Internet, ou de la violation par vous de toute loi ou de tout droit d'un tiers.",
+        p: "Vous vous engagez à indemniser Odara et ses affiliés, administrateurs, dirigeants et employés, et à les tenir quittes de toute réclamation, responsabilité, dommage, perte et dépense (y compris les honoraires d'avocat raisonnables) résultant d'un manquement aux présentes Conditions, d'une utilisation abusive du Site Internet, ou de la violation par vous de toute loi ou de tout droit d'un tiers.",
       },
       {
         h: "18. Modifications",
@@ -659,15 +659,15 @@ const content = {
           },
           {
             label: "Absence de renonciation.",
-            text: "Le fait pour Lumnis de ne pas exercer, ou de retarder l'exercice, d'un droit prévu par les présentes Conditions ne saurait constituer une renonciation à ce droit.",
+            text: "Le fait pour Odara de ne pas exercer, ou de retarder l'exercice, d'un droit prévu par les présentes Conditions ne saurait constituer une renonciation à ce droit.",
           },
           {
             label: "Cession.",
-            text: "Vous ne pouvez céder vos droits ou obligations au titre des présentes Conditions. Lumnis peut céder les présentes Conditions à une société affiliée ou à un successeur.",
+            text: "Vous ne pouvez céder vos droits ou obligations au titre des présentes Conditions. Odara peut céder les présentes Conditions à une société affiliée ou à un successeur.",
           },
           {
             label: "Intégralité de l'accord.",
-            text: "Les présentes Conditions, conjointement avec l'Avis de Confidentialité, constituent l'intégralité de l'accord entre vous et Lumnis relatif à l'utilisation du Site Internet, et remplacent tout accord antérieur portant sur le même objet. Elles ne régissent pas les Services, qui font l'objet de conventions écrites distinctes.",
+            text: "Les présentes Conditions, conjointement avec l'Avis de Confidentialité, constituent l'intégralité de l'accord entre vous et Odara relatif à l'utilisation du Site Internet, et remplacent tout accord antérieur portant sur le même objet. Elles ne régissent pas les Services, qui font l'objet de conventions écrites distinctes.",
           },
           {
             label: "Langues.",
@@ -681,16 +681,16 @@ const content = {
       },
       {
         h: "21. Contact",
-        p: "Lumnis Capital Partners",
+        p: "Odara Capital Partners",
         p2: "Siège social : 2 Parc d'Activités Capellen, 8308 Capellen Mamer, Luxembourg, Grand-Duché de Luxembourg — RCS Luxembourg.",
-        p3: "Demandes générales et protection des données : contact@lumniscapital.com",
+        p3: "Demandes générales et protection des données : contact@odaracapital.com",
       },
     ],
   },
 };
 
 const SUPPORTED_LANGS = ["en", "pt", "es", "fr"] as const;
-const LANG_STORAGE_KEY = "lumnis_lang";
+const LANG_STORAGE_KEY = "odara_lang";
 
 function detectInitialLang(): "en" | "pt" | "es" | "fr" {
   const saved = localStorage.getItem(LANG_STORAGE_KEY);
@@ -751,7 +751,7 @@ const Terms = () => {
 
         <div className="mb-10">
           <p className="text-[0.7rem] tracking-[0.25em] uppercase mb-4 font-semibold" style={{ color: "hsl(232,25%,40%)" }}>
-            Lumnis Capital Partners
+            Odara Capital Partners
           </p>
           <h1 className="font-['Cormorant_Garamond',serif] font-light text-4xl md:text-5xl leading-tight mb-3" style={{ color: "hsl(232,25%,20%)" }}>
             {c.title}

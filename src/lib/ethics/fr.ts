@@ -4,31 +4,31 @@ export const fr: EthicsContent = {
   ui: {
     back: "Retour",
     pageTitle: "Intégrité et Éthique",
-    docTitle: "Code d'Éthique et de Conduite — Lumnis Capital Partners",
+    docTitle: "Code d'Éthique et de Conduite — Odara Capital Partners",
     subtitle: "Principes, engagements et la manière dont nous décidons",
-    edition: "Édition 2026 · Document public, approuvé par la Direction de Lumnis Capital Partners",
+    edition: "Édition 2026 · Document public, approuvé par la Direction de Odara Capital Partners",
     summary: "Sommaire",
     messageTitle: "Message de la Direction",
     signature: "La Direction",
-    signaturePlace: "Lumnis Capital Partners · Luxembourg, juillet 2026",
+    signaturePlace: "Odara Capital Partners · Luxembourg, juillet 2026",
     whyTitle: "Pourquoi ce document existe",
     partI: "Partie I — Code d'Éthique",
     partII: "Partie II — Code de Conduite",
     ctaTitle: "Ligne Éthique",
     ctaText: "Questions, signalements et alertes — de manière identifiée ou anonyme, traités avec confidentialité, impartialité et indépendance.",
     closingQuote: "L'éthique n'est pas ce que nous déclarons. C'est ce que nous faisons quand personne ne regarde.",
-    closingTag: "Lumnis Capital Partners · Luxembourg · Dubaï",
-    htmlTitle: "Intégrité et Éthique | Lumnis Capital Partners",
+    closingTag: "Odara Capital Partners · Luxembourg · Dubaï",
+    htmlTitle: "Intégrité et Éthique | Odara Capital Partners",
   },
   message: [
     { t: "p", v: "Une maison qui structure du capital ne vit que d'une seule chose : la confiance. L'investisseur institutionnel nous confie des ressources qui ne lui appartiennent pas par hasard — elles sont le fruit de mandats, d'épargne, de responsabilité fiduciaire. L'entrepreneur nous confie l'avenir d'une entreprise qu'il a mis des années, parfois des générations, à bâtir. Le régulateur nous confie le respect de la règle, même quand personne ne regarde. Perdre l'une de ces confiances coûte plus cher que n'importe quelle affaire ne vaut." },
-    { t: "p", v: "Ce Code décrit comment nous protégeons cette confiance. Ce n'est ni un outil de marketing ni un document à classer dans un tiroir. C'est la réponse de Lumnis à la question qui resurgit chaque fois que le juste n'est pas évident : et maintenant, que fait la maison ?" },
-    { t: "p", v: "Les organisations qui traversent les décennies ont un trait commun : elles n'admettent jamais le gain à n'importe quel prix. Elles préfèrent perdre une opération plutôt que de perdre le droit d'être prises au sérieux. C'est le standard que nous avons choisi — au Luxembourg, à Dubaï, au Brésil et sur toute place que Lumnis atteindra." },
-    { t: "p", v: "Personne n'apprend un code par cœur, et là n'est pas l'idée. Mais chacun ici est responsable de le connaître, de l'appliquer et d'en exiger le respect, y compris de la part de ceux qui sont au-dessus dans la hiérarchie. Chez Lumnis, la règle ne change pas de poids selon le rang de celui qui l'enfreint. Plus la position est élevée, plus grande est la responsabilité de donner l'exemple." },
+    { t: "p", v: "Ce Code décrit comment nous protégeons cette confiance. Ce n'est ni un outil de marketing ni un document à classer dans un tiroir. C'est la réponse de Odara à la question qui resurgit chaque fois que le juste n'est pas évident : et maintenant, que fait la maison ?" },
+    { t: "p", v: "Les organisations qui traversent les décennies ont un trait commun : elles n'admettent jamais le gain à n'importe quel prix. Elles préfèrent perdre une opération plutôt que de perdre le droit d'être prises au sérieux. C'est le standard que nous avons choisi — au Luxembourg, à Dubaï, au Brésil et sur toute place que Odara atteindra." },
+    { t: "p", v: "Personne n'apprend un code par cœur, et là n'est pas l'idée. Mais chacun ici est responsable de le connaître, de l'appliquer et d'en exiger le respect, y compris de la part de ceux qui sont au-dessus dans la hiérarchie. Chez Odara, la règle ne change pas de poids selon le rang de celui qui l'enfreint. Plus la position est élevée, plus grande est la responsabilité de donner l'exemple." },
   ],
   why: [
-    { t: "p", v: "Lumnis Capital Partners est une plateforme de finance structurée et de titrisation ancrée au Luxembourg, avec une présence opérationnelle à Dubaï et au Brésil, dédiée à connecter le capital institutionnel international aux entreprises du middle market sud-américain. Nous opérons à l'intersection de juridictions, de monnaies, de cultures et de régimes réglementaires distincts — et c'est précisément pour cela que nous avons besoin d'un standard de conduite unique, valable partout, en tout temps." },
-    { t: "p", v: "Ce Code s'organise en deux parties. La Partie I — Code d'Éthique — rassemble qui nous sommes et les principes qui s'appliquent à tous ceux qui sont en relation avec Lumnis, des associés aux fournisseurs. La Partie II — Code de Conduite — est pratique : elle décrit les situations concrètes de notre quotidien, certaines délicates, et ce que l'on attend de chacun lorsqu'elles se présentent." },
+    { t: "p", v: "Odara Capital Partners est une plateforme de finance structurée et de titrisation ancrée au Luxembourg, avec une présence opérationnelle à Dubaï et au Brésil, dédiée à connecter le capital institutionnel international aux entreprises du middle market sud-américain. Nous opérons à l'intersection de juridictions, de monnaies, de cultures et de régimes réglementaires distincts — et c'est précisément pour cela que nous avons besoin d'un standard de conduite unique, valable partout, en tout temps." },
+    { t: "p", v: "Ce Code s'organise en deux parties. La Partie I — Code d'Éthique — rassemble qui nous sommes et les principes qui s'appliquent à tous ceux qui sont en relation avec Odara, des associés aux fournisseurs. La Partie II — Code de Conduite — est pratique : elle décrit les situations concrètes de notre quotidien, certaines délicates, et ce que l'on attend de chacun lorsqu'elles se présentent." },
     { t: "p", v: "Nous publions ce document dans son intégralité, sur notre site, parce que nous croyons que la transparence ne se déclare pas — elle se démontre. Les investisseurs, les entreprises clientes, les régulateurs, les partenaires et la société ont le droit de savoir, avant toute signature, avec quels standards cette maison travaille et ce qu'ils peuvent exiger de nous." },
     { t: "quote", v: "C'est une carte, non une liste d'exceptions. Aucun texte ne couvre la vie entière, et des cas surgiront qui ne figurent pas ici. Quand ils surgiront, le critère est le même que celui qui guide tout le reste : si vous seriez à l'aise pour expliquer votre décision, à voix haute, au comité d'éthique et au client en même temps, vous avez probablement raison. Si vous deviez la cacher à l'un des deux, arrêtez-vous et posez la question avant d'agir." },
   ],
@@ -38,9 +38,9 @@ export const fr: EthicsContent = {
       num: "1",
       title: "À qui ce Code s'applique",
       blocks: [
-        { t: "p", v: "Il s'applique à tous les associés, administrateurs, dirigeants, employés, stagiaires, représentants et prestataires de services de Lumnis Capital Partners, sur toutes les places où nous opérons — y compris notre réseau de représentants au Brésil. Il s'applique également, dans la mesure applicable, aux agents, partenaires, agents de placement (placement agents), fournisseurs et autres tiers agissant au nom de la maison. Quiconque représente Lumnis porte Lumnis, et en répond." },
+        { t: "p", v: "Il s'applique à tous les associés, administrateurs, dirigeants, employés, stagiaires, représentants et prestataires de services de Odara Capital Partners, sur toutes les places où nous opérons — y compris notre réseau de représentants au Brésil. Il s'applique également, dans la mesure applicable, aux agents, partenaires, agents de placement (placement agents), fournisseurs et autres tiers agissant au nom de la maison. Quiconque représente Odara porte Odara, et en répond." },
         { t: "p", v: "Nous opérons dans des juridictions différentes, avec des règles différentes. Lorsque la loi locale est plus exigeante que ce Code, la loi prévaut. Lorsque ce Code est plus exigeant que la loi locale, c'est le Code qui prévaut. Ce que nous ne faisons jamais, c'est invoquer la règle la plus souple d'un pays pour justifier ici ce que nous ne ferions pas au Luxembourg." },
-        { t: "p", v: "L'adhésion à ce Code est une condition d'entrée et de maintien. Chaque membre de Lumnis déclare, à son arrivée puis chaque année, qu'il l'a lu, compris et qu'il s'engage à en respecter le contenu. Ne pas connaître la règle n'exonère pas de la respecter." },
+        { t: "p", v: "L'adhésion à ce Code est une condition d'entrée et de maintien. Chaque membre de Odara déclare, à son arrivée puis chaque année, qu'il l'a lu, compris et qu'il s'engage à en respecter le contenu. Ne pas connaître la règle n'exonère pas de la respecter." },
       ],
     },
     {
@@ -48,7 +48,7 @@ export const fr: EthicsContent = {
       num: "2",
       title: "Qui nous sommes : mission, vision et valeurs",
       blocks: [
-        { t: "p", v: "Nous existons pour résoudre une contradiction simple. Il y a de bonnes entreprises en Amérique du Sud qui paient trop cher le capital dont elles ont besoin, et il y a du capital institutionnel dans le monde qui cherche de bons endroits où aller. Ce qui manque entre les deux, ce n'est ni l'argent ni l'appétit : c'est un pont fiable, et la confiance pour le traverser. Lumnis est ce pont." },
+        { t: "p", v: "Nous existons pour résoudre une contradiction simple. Il y a de bonnes entreprises en Amérique du Sud qui paient trop cher le capital dont elles ont besoin, et il y a du capital institutionnel dans le monde qui cherche de bons endroits où aller. Ce qui manque entre les deux, ce n'est ni l'argent ni l'appétit : c'est un pont fiable, et la confiance pour le traverser. Odara est ce pont." },
         { t: "sub", h: "Mission", v: "Structurer l'accès des entreprises du middle market sud-américain au capital institutionnel international avec discipline, transparence et méthode — et apprendre à nos clients à traverser ce pont et à le maintenir ouvert pour ceux qui viendront après." },
         { t: "sub", h: "Vision", v: "Être reconnue comme l'autorité en matière de capital transfrontalier : la référence de quiconque a besoin de comprendre, d'accéder et de faire confiance au capital structuré international." },
         { t: "sub", h: "Nos valeurs", v: "Ce ne sont pas des phrases accrochées au mur. Ce sont les critères que nous utilisons lorsque nous devons choisir." },
@@ -73,7 +73,7 @@ export const fr: EthicsContent = {
         {
           t: "list",
           v: [
-            "L'intégrité avant le résultat : aucun objectif commercial, aucun bonus et aucun délai serré ne justifie de contourner ce Code. Si, pour conclure une affaire, il faut omettre, exagérer ou glisser un risque sous le tapis, l'affaire n'en vaut pas la peine — et ce n'est pas l'affaire que Lumnis veut. Nous préférons perdre une opération plutôt que de perdre le droit d'être pris au sérieux.",
+            "L'intégrité avant le résultat : aucun objectif commercial, aucun bonus et aucun délai serré ne justifie de contourner ce Code. Si, pour conclure une affaire, il faut omettre, exagérer ou glisser un risque sous le tapis, l'affaire n'en vaut pas la peine — et ce n'est pas l'affaire que Odara veut. Nous préférons perdre une opération plutôt que de perdre le droit d'être pris au sérieux.",
             "La prudence avant la signature : nous n'apposons le nom de la maison que sur ce que nous avons analysé en profondeur et que nous comprenons entièrement. Structurer le risque est différent de cacher le risque ; notre travail est le premier.",
             "La transparence envers toutes les parties : ce que nous disons à l'investisseur et ce que nous disons à l'emprunteur racontent la même histoire. Il n'existe pas une version pour chaque auditoire.",
             "La légalité sans raccourci : nous respectons les règles contre le blanchiment d'argent, la corruption et la violation des sanctions dans chaque juridiction qui nous concerne. Ce n'est pas un obstacle à l'affaire ; c'est la condition de son existence.",
@@ -87,12 +87,12 @@ export const fr: EthicsContent = {
       num: "4",
       title: "Nos relations",
       blocks: [
-        { t: "p", v: "Au quotidien, Lumnis entretient des relations avec des publics distincts, et chaque relation porte ses propres engagements. Dans toutes, l'objectif est le même : de la valeur partagée, des relations durables et la transformation de chaque interaction en occasion de créer de la confiance." },
+        { t: "p", v: "Au quotidien, Odara entretient des relations avec des publics distincts, et chaque relation porte ses propres engagements. Dans toutes, l'objectif est le même : de la valeur partagée, des relations durables et la transformation de chaque interaction en occasion de créer de la confiance." },
         { t: "sub", h: "Investisseurs institutionnels", v: "Nous fournissons une information claire, exacte, complète et opportune, afin que les décisions d'investissement soient prises en connaissance de cause. États financiers, rapports et documents d'offre traduisent avec rigueur la réalité des opérations — risques, coûts et conditions inclus, au même endroit et avec la même mise en évidence que les opportunités. Nous prévenons la fuite d'informations restreintes et n'admettons jamais de négociation fondée sur une information privilégiée." },
         { t: "sub", h: "Entreprises clientes et emprunteurs", v: "Les entreprises du middle market sud-américain sont la raison d'être de notre pont. Nous leur devons diligence, clarté sur les structures et les coûts, et des produits adaptés à leur profil et à leur capacité. Nous n'induisons pas en erreur, n'omettons pas d'information pertinente et ne subordonnons pas les affaires à des contraintes de quelque nature que ce soit. Apprendre au client à comprendre sa propre opération fait partie du service." },
         { t: "sub", h: "Régulateurs et superviseurs", v: "Nous travaillons avec rigueur, clarté et diligence dans les réponses et les reportings aux autorités des juridictions où nous opérons — parmi elles la CSSF (Commission de Surveillance du Secteur Financier), au Luxembourg, la DFSA (Dubai Financial Services Authority), à Dubaï, et la Banque Centrale du Brésil et la CVM (Comissão de Valores Mobiliários), au Brésil. Rien n'est omis, maquillé ou différé. Nous suivons également les lignes directrices éthiques et d'autorégulation des associations de marché auxquelles nous adhérons." },
         { t: "sub", h: "Agents, partenaires et fournisseurs", v: "Nous sélectionnons et contractons selon des critères objectifs, transparents et impartiaux, sans place pour le favoritisme. Nous exigeons de nos partenaires le même standard que nous pratiquons : nous ne tolérons pas, dans notre chaîne de relations, la corruption, le travail dégradant, la violation des droits humains ni aucune forme de conduite que nous ne souscririons pas en notre propre nom. Un agent qui agit salement au nom de la maison salit la maison." },
-        { t: "sub", h: "Concurrents", v: "Nous croyons en la libre concurrence et rivalisons par le mérite. Nous ne dénigrons pas les concurrents, n'obtenons pas d'information par des méthodes douteuses et ne discutons pas avec des compétiteurs de sujets commercialement sensibles — prix, conditions, partage de marchés ou de clients. L'autorité de Lumnis se prouve par l'historique et la méthode." },
+        { t: "sub", h: "Concurrents", v: "Nous croyons en la libre concurrence et rivalisons par le mérite. Nous ne dénigrons pas les concurrents, n'obtenons pas d'information par des méthodes douteuses et ne discutons pas avec des compétiteurs de sujets commercialement sensibles — prix, conditions, partage de marchés ou de clients. L'autorité de Odara se prouve par l'historique et la méthode." },
         { t: "sub", h: "Communautés et environnement", v: "Nous reconnaissons le rôle du capital comme agent de transformation. En structurant l'accès d'entreprises productives à un financement de long terme — y compris par le biais d'actifs environnementaux et d'instruments liés à l'agenda de la durabilité —, nous cherchons à ce que chaque opération laisse un héritage positif dans les territoires où nos clients opèrent, en considérant toujours les dimensions sociale, économique et environnementale." },
       ],
     },
@@ -123,7 +123,7 @@ export const fr: EthicsContent = {
       num: "6",
       title: "Prévention du blanchiment d'argent et du financement du terrorisme",
       blocks: [
-        { t: "p", v: "Le blanchiment d'argent dissimule des crimes qui blessent des personnes et des communautés — corruption, trafic, fraude, financement du terrorisme. L'implication, fût-elle par négligence, expose Lumnis et les individus à des sanctions sévères et détruit la confiance qui soutient notre métier." },
+        { t: "p", v: "Le blanchiment d'argent dissimule des crimes qui blessent des personnes et des communautés — corruption, trafic, fraude, financement du terrorisme. L'implication, fût-elle par négligence, expose Odara et les individus à des sanctions sévères et détruit la confiance qui soutient notre métier." },
         { t: "p", v: "Nous respectons intégralement les normes de prévention applicables sur les places où nous opérons, y compris la législation luxembourgeoise de lutte contre le blanchiment d'argent et le financement du terrorisme, les directives de l'Union européenne en la matière, les règles du DIFC (Dubai International Financial Centre) et de la DFSA à Dubaï, et, au Brésil, la Lei nº 9.613/1998 et la réglementation du COAF (Conselho de Controle de Atividades Financeiras), de la Banque Centrale du Brésil et de la CVM." },
         { t: "lead", v: "En pratique : chacun de nous suit les formations exigées, reste attentif aux signaux d'alerte et signale immédiatement à la Conformité toute activité ou transaction suspecte. Signaler n'exige pas de certitude : cela exige de la bonne foi." },
       ],
@@ -142,10 +142,10 @@ export const fr: EthicsContent = {
       num: "8",
       title: "Corruption et paiements de facilitation",
       blocks: [
-        { t: "p", v: "Lumnis ne verse pas de pots-de-vin, n'en reçoit pas et ne ferme pas les yeux sur ceux qui en versent. Cela vaut pour l'agent public comme pour le secteur privé, ici et sur toute place. Les lois qui nous concernent — la loi anticorruption brésilienne (Lei nº 12.846/2013), le FCPA américain (Foreign Corrupt Practices Act), le UK Bribery Act britannique, entre autres — engagent la responsabilité de l'entreprise entière pour l'acte d'une seule personne." },
-        { t: "p", v: "Le point sensible de notre métier est ce que l'on appelle le paiement de facilitation : cette petite somme pour « accélérer » une licence, un enregistrement, une mainlevée. Pour Lumnis, ce paiement n'existe pas. Un processus lent est un coût que nous absorbons ; un pot-de-vin déguisé en pourboire est une ligne que nous ne franchissons pas." },
+        { t: "p", v: "Odara ne verse pas de pots-de-vin, n'en reçoit pas et ne ferme pas les yeux sur ceux qui en versent. Cela vaut pour l'agent public comme pour le secteur privé, ici et sur toute place. Les lois qui nous concernent — la loi anticorruption brésilienne (Lei nº 12.846/2013), le FCPA américain (Foreign Corrupt Practices Act), le UK Bribery Act britannique, entre autres — engagent la responsabilité de l'entreprise entière pour l'acte d'une seule personne." },
+        { t: "p", v: "Le point sensible de notre métier est ce que l'on appelle le paiement de facilitation : cette petite somme pour « accélérer » une licence, un enregistrement, une mainlevée. Pour Odara, ce paiement n'existe pas. Un processus lent est un coût que nous absorbons ; un pot-de-vin déguisé en pourboire est une ligne que nous ne franchissons pas." },
         { t: "lead", v: "En pratique : si un intermédiaire, un commissionnaire ou un contact suggère qu'un paiement informel « règle » les choses, la réponse est non, et l'épisode est transmis à la Conformité le jour même. Cela vaut aussi pour ceux que nous engageons : nous exigeons contractuellement des agents et partenaires l'engagement envers ce standard." },
-        { t: "p", v: "Lumnis n'effectue aucune contribution, directe ou indirecte, à des campagnes électorales, candidats ou partis politiques, dans aucune juridiction. La participation politique des membres, le cas échéant, est strictement personnelle, jamais au nom de la maison et jamais avec les ressources, le temps ou les installations de la maison." },
+        { t: "p", v: "Odara n'effectue aucune contribution, directe ou indirecte, à des campagnes électorales, candidats ou partis politiques, dans aucune juridiction. La participation politique des membres, le cas échéant, est strictement personnelle, jamais au nom de la maison et jamais avec les ressources, le temps ou les installations de la maison." },
       ],
     },
     {
@@ -164,8 +164,8 @@ export const fr: EthicsContent = {
       title: "Conflits d'intérêts",
       blocks: [
         { t: "p", v: "Un conflit d'intérêts n'est pas une faute : c'est une situation. Il ne devient un problème que lorsqu'il reste caché. Avoir un parent chez une contrepartie, un investissement personnel dans une entreprise que nous analysons, une seconde activité qui dispute votre attention — rien de tout cela, en soi, n'est répréhensible. Le cacher, si." },
-        { t: "lead", v: "En pratique : dès que vous percevez un conflit, réel ou apparent, déclarez-le à votre responsable et à la Conformité avant de participer à toute décision liée. Celui qui porte le conflit s'écarte de la décision ; personne n'évalue sa propre situation. Et l'on n'utilise pas sa position chez Lumnis pour un avantage personnel, familial ou amical — ni ne s'approprie une opportunité d'affaires qui appartient à la maison ou à ses clients." },
-        { t: "p", v: "Les activités externes — enseignement, conseils d'administration, participations sociétaires, missions de conseil — sont bienvenues lorsqu'elles ne concurrencent pas Lumnis, ne compromettent pas la disponibilité et ne créent pas de conflit. Elles doivent être communiquées préalablement au responsable et, en cas de doute, évaluées par la Conformité." },
+        { t: "lead", v: "En pratique : dès que vous percevez un conflit, réel ou apparent, déclarez-le à votre responsable et à la Conformité avant de participer à toute décision liée. Celui qui porte le conflit s'écarte de la décision ; personne n'évalue sa propre situation. Et l'on n'utilise pas sa position chez Odara pour un avantage personnel, familial ou amical — ni ne s'approprie une opportunité d'affaires qui appartient à la maison ou à ses clients." },
+        { t: "p", v: "Les activités externes — enseignement, conseils d'administration, participations sociétaires, missions de conseil — sont bienvenues lorsqu'elles ne concurrencent pas Odara, ne compromettent pas la disponibilité et ne créent pas de conflit. Elles doivent être communiquées préalablement au responsable et, en cas de doute, évaluées par la Conformité." },
       ],
     },
     {
@@ -173,8 +173,8 @@ export const fr: EthicsContent = {
       num: "11",
       title: "Information confidentielle et information privilégiée",
       blocks: [
-        { t: "p", v: "Une bonne partie de ce qui passe par votre bureau est confidentielle : données de clients, termes d'opérations, stratégies d'investisseurs, chiffres qui ne sont pas encore publics. Cela ne sort pas de Lumnis — ni pour la famille, ni pour le groupe d'amis, ni « en théorie » au cours d'un dîner." },
-        { t: "p", v: "Il existe une couche supplémentaire, et elle est sérieuse. Si vous avez accès à une information significative et non encore publique, susceptible d'affecter la valeur d'un actif, vous ne pouvez ni négocier sur cette base ni la transmettre à quiconque négocierait. C'est un délit dans pratiquement toutes les juridictions où nous opérons — dans l'Union européenne, sous le Règlement sur les Abus de Marché (MAR — Market Abuse Regulation) — et Lumnis le traite comme une faute grave, sans exception de rang." },
+        { t: "p", v: "Une bonne partie de ce qui passe par votre bureau est confidentielle : données de clients, termes d'opérations, stratégies d'investisseurs, chiffres qui ne sont pas encore publics. Cela ne sort pas de Odara — ni pour la famille, ni pour le groupe d'amis, ni « en théorie » au cours d'un dîner." },
+        { t: "p", v: "Il existe une couche supplémentaire, et elle est sérieuse. Si vous avez accès à une information significative et non encore publique, susceptible d'affecter la valeur d'un actif, vous ne pouvez ni négocier sur cette base ni la transmettre à quiconque négocierait. C'est un délit dans pratiquement toutes les juridictions où nous opérons — dans l'Union européenne, sous le Règlement sur les Abus de Marché (MAR — Market Abuse Regulation) — et Odara le traite comme une faute grave, sans exception de rang." },
         { t: "lead", v: "En pratique : bureau rangé et écran verrouillé, ce n'est pas de la manie, c'est de la protection. On ne commente pas une opération dans un ascenseur, un VTC, un avion ou un hall. Un document confidentiel reste dans les systèmes de la maison — jamais sur un drive personnel, une messagerie privée ou une application de messagerie. Et le devoir de confidentialité ne s'éteint pas avec le contrat : il accompagne chacun de nous après le départ." },
       ],
     },
@@ -183,7 +183,7 @@ export const fr: EthicsContent = {
       num: "12",
       title: "Communication commerciale : ce que nous promettons et ce que nous ne promettons jamais",
       blocks: [
-        { t: "p", v: "La manière dont Lumnis parle du capital fait partie de ce qui la rend digne de confiance. Nous vendons de la structure, de la discipline et de l'accès — jamais de l'illusion. Il y a des choses qu'une maison sérieuse de crédit et de titrisation ne dit tout simplement pas, et les énumérer est plus honnête que de feindre que la tentation n'existe pas." },
+        { t: "p", v: "La manière dont Odara parle du capital fait partie de ce qui la rend digne de confiance. Nous vendons de la structure, de la discipline et de l'accès — jamais de l'illusion. Il y a des choses qu'une maison sérieuse de crédit et de titrisation ne dit tout simplement pas, et les énumérer est plus honnête que de feindre que la tentation n'existe pas." },
         {
           t: "list",
           v: [
@@ -201,8 +201,8 @@ export const fr: EthicsContent = {
       num: "13",
       title: "Communication générale, réseaux sociaux et le nom de la maison",
       blocks: [
-        { t: "p", v: "Vous ne cessez pas de faire partie de Lumnis en refermant votre ordinateur. Ce que l'on publie, aime et commente sur les réseaux sociaux, et la manière dont on parle de la maison en public, rejaillit sur la réputation de tous." },
-        { t: "lead", v: "En pratique : seules les personnes autorisées parlent au nom de Lumnis, que ce soit à la presse, dans des panels ou sur les canaux officiels. Sur votre profil personnel, vous avez votre propre vie — mais n'utilisez pas le badge pour donner du poids à une opinion personnelle, ne divulguez pas d'information interne et ne commentez pas les opérations, les clients ou les investisseurs. Toute sollicitation de journaliste est transmise aux responsables de la communication, sans improvisation, aussi sympathique que soit la question." },
+        { t: "p", v: "Vous ne cessez pas de faire partie de Odara en refermant votre ordinateur. Ce que l'on publie, aime et commente sur les réseaux sociaux, et la manière dont on parle de la maison en public, rejaillit sur la réputation de tous." },
+        { t: "lead", v: "En pratique : seules les personnes autorisées parlent au nom de Odara, que ce soit à la presse, dans des panels ou sur les canaux officiels. Sur votre profil personnel, vous avez votre propre vie — mais n'utilisez pas le badge pour donner du poids à une opinion personnelle, ne divulguez pas d'information interne et ne commentez pas les opérations, les clients ou les investisseurs. Toute sollicitation de journaliste est transmise aux responsables de la communication, sans improvisation, aussi sympathique que soit la question." },
       ],
     },
     {
@@ -219,7 +219,7 @@ export const fr: EthicsContent = {
       num: "15",
       title: "Respect, diversité et droits humains",
       blocks: [
-        { t: "p", v: "Les bons esprits travaillent mieux là où il est sûr d'être en désaccord. Chez Lumnis, il n'y a pas de place pour le harcèlement, la discrimination, l'humiliation ou les représailles — de personne, envers personne. Une différence de séniorité n'est pas un permis d'irrespect." },
+        { t: "p", v: "Les bons esprits travaillent mieux là où il est sûr d'être en désaccord. Chez Odara, il n'y a pas de place pour le harcèlement, la discrimination, l'humiliation ou les représailles — de personne, envers personne. Une différence de séniorité n'est pas un permis d'irrespect." },
         { t: "p", v: "Nous ne tolérons aucune discrimination fondée sur le genre, la race ou la couleur, l'ethnie, l'origine, la condition sociale, la religion, la croyance, l'âge, l'état civil, l'orientation sexuelle, l'identité de genre, la nationalité, la conviction politique ou philosophique, l'état de santé, une caractéristique physique ou un handicap — ni aucune autre. Nous promouvons la diversité parce que nous croyons qu'une maison qui connecte deux mondes doit savoir en écouter beaucoup." },
         { t: "p", v: "Nous respectons les droits humains dans toutes nos activités et dans toute notre chaîne de relations, en ligne avec les standards internationaux. Nous n'engageons ni ne conservons de partenaires qui recourent au travail des enfants, forcé ou dégradant, ou à des conditions qui portent atteinte à la dignité de ceux qui travaillent." },
         { t: "lead", v: "En pratique : traitez collègues, clients et prestataires comme vous attendez d'être traité. Être en désaccord avec l'idée est bienvenu et fait partie du travail ; attaquer la personne, non. Ceux qui dirigent répondent du maintien de cet environnement, et non seulement de la livraison des chiffres." },
@@ -258,9 +258,9 @@ export const fr: EthicsContent = {
       num: "17",
       title: "Comment lever la main : la Ligne Éthique",
       blocks: [
-        { t: "p", v: "Ce Code ne fonctionne que si les personnes ont le courage de signaler quand quelque chose ne va pas — et la confiance que signaler ne coûtera pas cher. Lumnis maintient un canal permanent pour les questions, signalements et alertes, ouvert aux membres de la maison ainsi qu'aux clients, investisseurs, partenaires, fournisseurs et à la communauté en général." },
+        { t: "p", v: "Ce Code ne fonctionne que si les personnes ont le courage de signaler quand quelque chose ne va pas — et la confiance que signaler ne coûtera pas cher. Odara maintient un canal permanent pour les questions, signalements et alertes, ouvert aux membres de la maison ainsi qu'aux clients, investisseurs, partenaires, fournisseurs et à la communauté en général." },
         { t: "p", v: "Utilisez-le chaque fois que vous constatez ou soupçonnez une violation de ce Code ou de la loi, lorsque vous doutez de la marche à suivre face à une situation concrète, ou simplement lorsque vous souhaitez en parler avant de décider. Il n'est pas nécessaire d'avoir des certitudes ni des preuves : la bonne foi suffit." },
-        { t: "lead", v: "En pratique : le canal est disponible par e-mail à etica@lumnispartners.com et via le formulaire confidentiel sur le site www.lumnispartners.com. Les signalements peuvent être faits de manière identifiée ou anonyme, là où la loi le permet, et sont traités avec confidentialité, impartialité et indépendance — y compris lorsqu'ils concernent la Direction." },
+        { t: "lead", v: "En pratique : le canal est disponible par e-mail à etica@odaracapitalpartners.com et via le formulaire confidentiel sur le site www.odaracapitalpartners.com. Les signalements peuvent être faits de manière identifiée ou anonyme, là où la loi le permet, et sont traités avec confidentialité, impartialité et indépendance — y compris lorsqu'ils concernent la Direction." },
         { t: "lead", v: "Sans représailles : il n'y aura jamais de rétorsion contre quiconque signale de bonne foi — ni licenciement, ni mise à l'écart, ni persécution voilée. Exercer des représailles contre celui qui a levé la main est, en soi, une violation grave de ce Code et sera traité comme tel. La seule mauvaise foi que nous sanctionnons est la dénonciation que son auteur sait être fausse." },
         { t: "p", v: "Le régime de protection des lanceurs d'alerte observe, dans la mesure applicable, la Directive (UE) 2019/1937 sur la protection des lanceurs d'alerte (whistleblowing) et sa transposition luxembourgeoise, ainsi que les normes équivalentes des autres juridictions où nous opérons." },
       ],
@@ -282,10 +282,10 @@ export const fr: EthicsContent = {
         {
           t: "list",
           v: [
-            "Approbation et titularité : ce Code est approuvé par la Direction de Lumnis Capital Partners, qui répond de son application et de son exemple.",
+            "Approbation et titularité : ce Code est approuvé par la Direction de Odara Capital Partners, qui répond de son application et de son exemple.",
             "Adhésion : chaque membre déclare, à son arrivée puis chaque année, qu'il a lu, compris et s'engage envers ce Code. Agents, partenaires et fournisseurs y adhèrent, dans la mesure applicable, par voie contractuelle.",
             "Formation : nous maintenons une formation périodique sur les thèmes de ce Code, avec un accent sur la prévention du blanchiment d'argent, les sanctions, l'anticorruption et la protection des données.",
-            "Révision : le Code est révisé périodiquement et chaque fois qu'un changement significatif d'activité, de réglementation ou de structure l'exige. La version en vigueur est celle publiée sur www.lumnispartners.com.",
+            "Révision : le Code est révisé périodiquement et chaque fois qu'un changement significatif d'activité, de réglementation ou de structure l'exige. La version en vigueur est celle publiée sur www.odaracapitalpartners.com.",
             "Cadre de référence : ce Code dialogue avec le cadre réglementaire et d'autorégulation des places où nous opérons — y compris le Règlement (UE) 2017/2402 (Règlement européen sur la titrisation), la supervision de la CSSF au Luxembourg, le régime de la DFSA à Dubaï et les lignes directrices d'entités de marché telles que l'ICMA (International Capital Market Association) et l'ANBIMA (Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais).",
           ],
         },

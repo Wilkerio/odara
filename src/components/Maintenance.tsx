@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
-const BLUE = "#172445";
-const BLUE_RGB = "23,36,69";
+const BLUE = "#0a2a56";
+const BLUE_RGB = "10,42,86";
 
 const Maintenance = () => {
   return (

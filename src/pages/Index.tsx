@@ -21,7 +21,7 @@ import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 
 const SUPPORTED_LANGS = ["pt", "en", "es", "fr"];
-const LANG_STORAGE_KEY = "lumnis_lang";
+const LANG_STORAGE_KEY = "odara_lang";
 
 function detectInitialLang(): string {
   const saved = localStorage.getItem(LANG_STORAGE_KEY);

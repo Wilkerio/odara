@@ -13,7 +13,7 @@ const team = [
     name: "Luciano Bravo", 
     role: "team.role.1", 
     img: teamLuciano,
-    linkedin: "https://www.linkedin.com/in/lucianobravo-lumnis/",
+    linkedin: "https://www.linkedin.com/in/lucianobravo-odara/",
     experience: "25+ years"
   },
   {
@@ -65,7 +65,7 @@ const TeamSection = ({ t }: TeamProps) => {
               <p className="font-['DM_Sans',sans-serif] text-[0.7rem] tracking-[0.15em] uppercase mt-1" style={{ color: "hsl(36,3%,52%)" }}>
                 {t[member.role].split("—")[0].trim()}
                 <br />
-                <span className="text-[0.6rem] tracking-[0.12em] opacity-70" style={{ color: "hsl(36,3%,62%)" }}>{member.experience} exp. • Lumnis Capital Partners</span>
+                <span className="text-[0.6rem] tracking-[0.12em] opacity-70" style={{ color: "hsl(36,3%,62%)" }}>{member.experience} exp. • Odara Capital Partners</span>
               </p>
             </div>
           ))}

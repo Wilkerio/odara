@@ -1,10 +1,9 @@
 import { useNavigate } from "react-router-dom";
 import { ArrowLeft, Mail } from "lucide-react";
 import { useEffect, useState } from "react";
-import lumnisLogoAsset from "@/assets/lumnis-logo.png.asset.json";
+import odaraLogo from "@/assets/logo.jpeg";
 import { ethicsContent, type Block, type Section } from "@/lib/ethics";
 
-const lumnisLogo = lumnisLogoAsset.url;
 
 const INK = "#1B2E2B";
 const GOLD = "#B8892E";
@@ -12,7 +11,7 @@ const GOLD_SOFT = "#C79A4B";
 const BODY = "#3A3A38";
 
 const SUPPORTED_LANGS = ["pt", "en", "es", "fr"];
-const LANG_STORAGE_KEY = "lumnis_lang";
+const LANG_STORAGE_KEY = "odara_lang";
 
 function detectInitialLang(): string {
   const saved = localStorage.getItem(LANG_STORAGE_KEY);
@@ -147,7 +146,7 @@ const Ethics = () => {
 
         {/* Header / seal */}
         <header className="text-center">
-          <img src={lumnisLogo} alt="Lumnis Capital Partners" className="h-16 md:h-20 w-auto mx-auto mb-8 object-contain" />
+          <img src={odaraLogo} alt="Odara Capital Partners" className="h-16 md:h-20 w-auto mx-auto mb-8 object-contain" />
           <h1 className="font-['Cormorant_Garamond',Georgia,serif] font-bold text-[2.2rem] md:text-[3.2rem] leading-tight" style={{ color: INK }}>
             {c.ui.pageTitle}
           </h1>
@@ -233,12 +232,12 @@ const Ethics = () => {
             {c.ui.ctaText}
           </p>
           <a
-            href="mailto:etica@lumnispartners.com"
+            href="mailto:etica@odaracapitalpartners.com"
             className="inline-flex items-center gap-3 px-7 py-3.5 rounded no-underline text-[0.8rem] tracking-[0.15em] uppercase transition-opacity hover:opacity-85"
             style={{ background: INK, color: "#FDFCF9" }}
           >
             <Mail size={16} style={{ color: GOLD_SOFT }} />
-            etica@lumnispartners.com
+            etica@odaracapitalpartners.com
           </a>
         </div>
 

@@ -18,7 +18,7 @@ interface ContactRequest {
   recaptchaToken: string;
 }
 
-const NOTIFY_TO = ["jcbarbara@lumnis.com.br", "assessortecnico@lumnis.com.br"];
+const NOTIFY_TO = ["jcbarbara@odara.com.br", "assessortecnico@odara.com.br"];
 
 function escapeHtml(value: string): string {
   return value
@@ -119,7 +119,7 @@ async function handler(req: Request): Promise<Response> {
   ];
 
   const htmlBody = `
-    <h2>Novo lead do site — Lumnis Capital Partners</h2>
+    <h2>Novo lead do site — Odara Capital Partners</h2>
     <table cellpadding="6" cellspacing="0" border="0">
       ${rows.map(([label, value]) => `<tr><td><strong>${escapeHtml(label)}</strong></td><td>${escapeHtml(value).replace(/\n/g, "<br>")}</td></tr>`).join("")}
     </table>
@@ -137,7 +137,7 @@ async function handler(req: Request): Promise<Response> {
 
   try {
     await client.send({
-      from: `Lumnis Website <${smtpUser}>`,
+      from: `Odara Website <${smtpUser}>`,
       to: NOTIFY_TO,
       replyTo: email,
       subject: `Novo lead do site — ${name}${company ? ` (${company})` : ""}`,

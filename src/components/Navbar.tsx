@@ -2,8 +2,7 @@ import { useEffect, useState, useRef } from "react";
 import { Link } from "react-router-dom";
 import { AnimatePresence, motion } from "framer-motion";
 import { ChevronDown } from "lucide-react";
-import lumnisLogoAsset from "@/assets/lumnis-logo.png.asset.json";
-const lumnisLogo = lumnisLogoAsset.url;
+import odaraLogo from "@/assets/logo sem fundo.png";
 
 interface NavbarProps {
   lang: string;
@@ -72,9 +71,9 @@ const Navbar = ({ lang, onLangChange, t }: NavbarProps) => {
         style={{ background: scrolled ? "rgba(247,245,241,0.95)" : "rgba(247,245,241,0.85)", borderColor: scrolled ? "rgba(13,13,13,0.1)" : "transparent" }}
       >
         <a href="#" className="no-underline flex items-center gap-2 md:gap-3">
-          <img src={lumnisLogo} alt="Lumnis" className="h-10 md:h-11 w-auto object-contain" />
+          <img src={odaraLogo} alt="Odara" className="h-10 md:h-11 w-auto object-contain" />
           <span className="font-['Cormorant_Garamond',serif] font-light text-lg md:text-xl tracking-[0.2em] uppercase text-foreground">
-            Lumnis
+            Odara
           </span>
         </a>
 

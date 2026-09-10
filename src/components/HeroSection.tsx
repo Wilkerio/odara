@@ -1,19 +1,13 @@
 import { useState, useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-import img1Asset from "@/assets/hero-1-middle-market.png.asset.json";
-import img2 from "@/assets/showcase-4-bespoke.jpg";
-import img3Asset from "@/assets/hero-3-baselines.png.asset.json";
-import img4Asset from "@/assets/hero-4-bespoke.png.asset.json";
-import img5Asset from "@/assets/hero-5-hands-on.png.asset.json";
-import img6Asset from "@/assets/hero-6-innovation.png.asset.json";
-import img7 from "@/assets/hero-7-latin-america.webp";
-
-const img1 = img1Asset.url;
-const img3 = img3Asset.url;
-const img4 = img4Asset.url;
-const img5 = img5Asset.url;
-const img6 = img6Asset.url;
+import img1 from "@/assets/generated_images/hero-1.png";
+import img2 from "@/assets/generated_images/showcase-4.png";
+import img3 from "@/assets/generated_images/hero-3.png";
+import img4 from "@/assets/generated_images/hero-4.png";
+import img5 from "@/assets/generated_images/hero-5.png";
+import img6 from "@/assets/generated_images/hero-6.png";
+import img7 from "@/assets/generated_images/hero-7.png";
 
 const slides = [
   { image: img1, titleKey: "showcase.1.title", subKey: "showcase.1.sub", position: "center" },

@@ -1,9 +1,9 @@
 import { useReveal } from "@/hooks/useReveal";
 import { motion } from "framer-motion";
 import { ArrowUp } from "lucide-react";
-import sustainMonkey from "@/assets/sustain-monkey.jpg";
-import sustainFarmForest from "@/assets/sustain-farm-forest.jpg";
-import sustainAgriculture from "@/assets/sustain-agriculture.jpg";
+import sustainMonkey from "@/assets/generated_images/sustain-monkey.png";
+import sustainFarmForest from "@/assets/generated_images/sustain-farm-forest.png";
+import sustainAgriculture from "@/assets/generated_images/sustain-agriculture.png";
 
 interface SustainabilityProps {
   t: Record<string, string>;

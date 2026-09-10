@@ -1,14 +1,14 @@
 import { useReveal } from "@/hooks/useReveal";
 import { motion } from "framer-motion";
-import assetCommercial from "@/assets/asset-commercial.jpg";
-import assetEquipment from "@/assets/asset-equipment.jpg";
-import assetInfrastructure from "@/assets/asset-infrastructure.jpg";
-import assetAgricultural from "@/assets/asset-agricultural.jpg";
-import assetFinancial from "@/assets/asset-financial.jpg";
-import assetTrade from "@/assets/asset-trade.jpg";
-import assetIp from "@/assets/asset-ip.jpg";
-import assetContracts from "@/assets/asset-contracts.jpg";
-import assetFutureflow from "@/assets/asset-futureflow.jpg";
+import assetCommercial from "@/assets/generated_images/asset-commercial.png";
+import assetEquipment from "@/assets/generated_images/asset-equipment.png";
+import assetInfrastructure from "@/assets/generated_images/asset-infrastructure.png";
+import assetAgricultural from "@/assets/generated_images/asset-agricultural.png";
+import assetFinancial from "@/assets/generated_images/asset-financial.png";
+import assetTrade from "@/assets/generated_images/asset-trade.png";
+import assetIp from "@/assets/generated_images/asset-ip.png";
+import assetContracts from "@/assets/generated_images/asset-contracts.png";
+import assetFutureflow from "@/assets/generated_images/asset-futureflow.png";
 
 interface GuaranteesProps {
   t: Record<string, string>;

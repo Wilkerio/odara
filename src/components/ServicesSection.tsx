@@ -1,6 +1,6 @@
 import { useReveal } from "@/hooks/useReveal";
 import { motion } from "framer-motion";
-import servicesHero from "@/assets/services-hero-new.webp";
+import servicesHero from "@/assets/generated_images/services-hero.png";
 
 interface ServicesProps {
   t: Record<string, string>;
