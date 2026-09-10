@@ -2,7 +2,7 @@ import { useEffect, useState, useRef } from "react";
 import { Link } from "react-router-dom";
 import { AnimatePresence, motion } from "framer-motion";
 import { ChevronDown } from "lucide-react";
-import odaraLogo from "@/assets/logo sem fundo.png";
+import odaraLogo from "@/assets/logo-sem-fundo.png";
 
 interface NavbarProps {
   lang: string;

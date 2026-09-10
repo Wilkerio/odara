@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import odaraLogo from "@/assets/logo sem fundo.png";
+import odaraLogo from "@/assets/logo-sem-fundo.png";
 
 const Footer = ({ t }: { t?: Record<string, string> }) => {
   return (

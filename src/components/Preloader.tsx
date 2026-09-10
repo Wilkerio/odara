@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import odaraLogo from "@/assets/logo sem fundo.png";
+import odaraLogo from "@/assets/logo-sem-fundo.png";
 
 const BLUE = "#0a2a56";
 const BLUE_RGB = "10,42,86";
