@@ -28,14 +28,6 @@ const getContactInfo = (lang: string) => [
             04547-130 — São Paulo, SP, Brasil
           </span>
         </div>
-        <div>
-          <span className="block font-['Cormorant_Garamond',serif] text-[1.15rem] font-light" style={{ color: "hsl(36,18%,96%)" }}>
-            BP 027 2C, parc d'Activités
-          </span>
-          <span className="block font-['DM_Sans',sans-serif] text-[0.75rem] font-light mt-0.5" style={{ color: "rgba(247,245,241,0.6)" }}>
-            L-8308 Capellen — G.D. Luxembourg
-          </span>
-        </div>
       </div>
     ),
     Icon: MapPin,
