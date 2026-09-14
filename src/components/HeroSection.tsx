@@ -1,22 +1,18 @@
 import { useState, useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-import img1 from "@/assets/generated_images/hero-1.png";
-import img2 from "@/assets/generated_images/showcase-4.png";
-import img3 from "@/assets/generated_images/hero-3.png";
-import img4 from "@/assets/generated_images/hero-4.png";
-import img5 from "@/assets/generated_images/hero-5.png";
-import img6 from "@/assets/generated_images/hero-6.png";
-import img7 from "@/assets/generated_images/hero-7.png";
+import vineyardAsset from "@/assets/hero-carousel-vineyard.webp.asset.json";
+import greenhouseAsset from "@/assets/hero-carousel-greenhouse.png.asset.json";
+import retailAsset from "@/assets/hero-carousel-retail.png.asset.json";
+import rioAsset from "@/assets/hero-carousel-rio.png.asset.json";
+import macawsAsset from "@/assets/hero-carousel-macaws.png.asset.json";
 
 const slides = [
-  { image: img1, titleKey: "showcase.1.title", subKey: "showcase.1.sub", position: "center" },
-  { image: img2, titleKey: "showcase.2.title", subKey: "showcase.2.sub", position: "center" },
-  { image: img3, titleKey: "showcase.3.title", subKey: "showcase.3.sub", position: "center" },
-  { image: img4, titleKey: "showcase.4.title", subKey: "showcase.4.sub", position: "center" },
-  { image: img5, titleKey: "showcase.5.title", subKey: "showcase.5.sub", position: "center" },
-  { image: img6, titleKey: "showcase.6.title", subKey: "showcase.6.sub", position: "center" },
-  { image: img7, titleKey: "showcase.7.title", subKey: "showcase.7.sub", position: "25% 50%" },
+  { image: vineyardAsset.url, titleKey: "showcase.1.title", subKey: "showcase.1.sub", position: "center" },
+  { image: greenhouseAsset.url, titleKey: "showcase.6.title", subKey: "showcase.6.sub", position: "center" },
+  { image: retailAsset.url, titleKey: "showcase.2.title", subKey: "showcase.2.sub", position: "center" },
+  { image: rioAsset.url, titleKey: "showcase.7.title", subKey: "showcase.7.sub", position: "center" },
+  { image: macawsAsset.url, titleKey: "showcase.3.title", subKey: "showcase.3.sub", position: "center" },
 ];
 
 interface HeroProps {
