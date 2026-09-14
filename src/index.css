@@ -196,3 +196,8 @@
 .reveal-delay-3 { transition-delay: 0.3s; }
 .reveal-delay-4 { transition-delay: 0.4s; }
 .reveal-delay-5 { transition-delay: 0.5s; }
+
+/* Hide Lovable editor badge */
+#lovable-badge {
+  display: none !important;
+}
