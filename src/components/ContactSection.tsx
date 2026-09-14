@@ -28,6 +28,14 @@ const getContactInfo = (lang: string) => [
             04547-130 — São Paulo, SP, Brasil
           </span>
         </div>
+        <div>
+          <span className="block font-['Cormorant_Garamond',serif] text-[1.15rem] font-light" style={{ color: "hsl(36,18%,96%)" }}>
+            13-15, Avenue de la Liberté
+          </span>
+          <span className="block font-['DM_Sans',sans-serif] text-[0.75rem] font-light mt-0.5" style={{ color: "rgba(247,245,241,0.6)" }}>
+            L-1931 — Grand Duché de Luxembourg
+          </span>
+        </div>
       </div>
     ),
     Icon: MapPin,
