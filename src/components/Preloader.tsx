@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import odaraLogo from "@/assets/logo-sem-fundo.png";
+import odaraLogo from "@/assets/logo-preloader-white.png";
 
 const BLUE = "#0a2a56";
 const BLUE_RGB = "10,42,86";
@@ -109,14 +109,11 @@ const Preloader = () => {
                 animate={{ scale: [0.8, 1.2, 0.8], opacity: [0.3, 0.7, 0.3] }}
                 transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
               />
-              <span
-                className="flex items-center justify-center w-24 h-24 md:w-32 md:h-32 rounded-full bg-white relative z-10"
-                style={{ filter: `drop-shadow(0 0 40px rgba(255,255,255,0.4))` }}
-              >
+              <span className="flex items-center justify-center w-24 h-24 md:w-32 md:h-32 relative z-10">
                 <img
                   src={odaraLogo}
                   alt="Odara"
-                  className="w-16 h-16 md:w-24 md:h-24 object-contain"
+                  className="w-24 h-24 md:w-32 md:h-32 object-contain"
                 />
               </span>
             </motion.div>
