@@ -3,7 +3,7 @@ import generalPrintersAsset from "@/assets/gpl_2021.png.asset.json";
 import thndrAsset from "@/assets/thndr.png.asset.json";
 import sabiAsset from "@/assets/sabi.png.asset.json";
 import cityLodgeAsset from "@/assets/city_lodge_hotels.png.asset.json";
-import geothetaAsset from "@/assets/theta_consulting.png.asset.json";
+import geothetaAsset from "@/assets/theta_consulting-dark.png.asset.json";
 
 const negotiations = [
   {
