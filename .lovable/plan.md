@@ -1,25 +1,15 @@
+# Concluded Negotiations — Africa
+
 ## Objetivo
-Trocar as 6 imagens atuais do carrossel do Hero (`showcase-1` a `showcase-6`) pelas fotos enviadas, mantendo layout, animações e textos intactos.
+Adicionar, imediatamente acima de “Referências e Benchmarks do Setor”, uma seção em inglês com as cinco negociações concluídas e as logos fornecidas.
 
-## Mapeamento proposto (tema → imagem enviada)
+## Implementação
+- Extrair e publicar as cinco logos transparentes do arquivo enviado.
+- Criar uma seção visual alinhada ao estilo financeiro premium atual, com cards para General Printers 2021, thndr, SABI, City Lodge Hotels e Geotheta.
+- Exibir país, posição no FT Ranking 2026 e percentual de crescimento exatamente conforme informado, corrigindo apenas erros evidentes de grafia em “Ranked”.
+- Inserir a seção antes das referências do setor e garantir boa leitura em celular e computador.
+- Validar o resultado visual e o carregamento das logos.
 
-| # | Slide (tema) | Imagem enviada |
-|---|---|---|
-| 1 | Middle Market | `image-5.png` (escritório/aço industrial) |
-| 2 | Credit → Capital | `image.png` (cristais/minerais preciosos) |
-| 3 | Baselines | `image-4.png` (grupo diverso — pilar People) |
-| 4 | Bespoke Solutions | `image-2.png` (mãos unidas — parceria) |
-| 5 | Hands-on Structure | `image-6.png` (engenheiros/refinaria) |
-| 6 | Innovation | `image-7.png` (solda/faíscas — precisão técnica) |
-
-`image-3.png` (macaco) fica de fora por não casar tematicamente com nenhum slide.
-
-## Passos técnicos
-1. Fazer upload das 6 imagens via `lovable-assets create` a partir de `/mnt/user-uploads/` (evita adicionar binários ao repo).
-2. Escrever os 6 `.asset.json` em `src/assets/` com nomes descritivos (ex.: `hero-1-middle-market.png.asset.json`).
-3. Atualizar `src/components/HeroSection.tsx` e `src/components/ShowcaseSection.tsx` para importar os novos pointers e usar `.url` no `<img src>`.
-4. Remover os arquivos antigos `showcase-1..6-*.png` de `src/assets/` (ficam órfãos após a troca).
-5. Verificar build.
-
-## Confirmação
-Se o mapeamento estiver ok, aprove e eu executo. Se quiser trocar alguma imagem de posição, me diga o novo mapeamento.
+## Detalhes técnicos
+- As logos serão servidas pelo CDN de assets do projeto.
+- A nova seção será isolada em um componente próprio e receberá o idioma atual, mantendo o título e os dados em inglês conforme solicitado.
