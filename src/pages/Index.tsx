@@ -13,6 +13,7 @@ import BaselinesSection from "@/components/BaselinesSection";
 import PeopleSection from "@/components/PeopleSection";
 import SustainabilitySection from "@/components/SustainabilitySection";
 import ProcessSection from "@/components/ProcessSection";
+import AfricaNegotiationsSection from "@/components/AfricaNegotiationsSection";
 import PartnersSection from "@/components/PartnersSection";
 import ClientsSection from "@/components/ClientsSection";
 import PartnersAboutSection from "@/components/PartnersAboutSection";
@@ -63,6 +64,7 @@ const Index = () => {
       <PeopleSection t={t} />
       <SustainabilitySection t={t} />
       <ProcessSection t={t} />
+       <AfricaNegotiationsSection />
       <PartnersSection t={t} />
       <ClientsSection lang={lang} />
       <InsightsSection t={t} lang={lang} />
