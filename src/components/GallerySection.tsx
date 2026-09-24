@@ -4,9 +4,9 @@ import galleryMeeting from "@/assets/gallery-image-7.png.asset.json";
 import galleryHandshake from "@/assets/gallery-image-8.png.asset.json";
 
 const photos = [
-  { src: gallerySpeaker.url, captionKey: "c1", tall: false, offset: false },
-  { src: galleryMeeting.url, captionKey: "c2", tall: true, offset: true },
-  { src: galleryHandshake.url, captionKey: "c3", tall: false, offset: false },
+  { src: gallerySpeaker.url, captionKey: "c1", aspectRatio: "1024 / 683", offset: false },
+  { src: galleryMeeting.url, captionKey: "c2", aspectRatio: "1024 / 683", offset: true },
+  { src: galleryHandshake.url, captionKey: "c3", aspectRatio: "683 / 1024", offset: false },
 ];
 
 const L: Record<string, any> = {
@@ -50,13 +50,13 @@ const GallerySection = ({ lang = "en" }: { lang?: string }) => {
             >
               <div
                 className="relative overflow-hidden"
-                style={{ aspectRatio: photo.tall ? "3 / 4.4" : "3 / 4" }}
+                style={{ aspectRatio: photo.aspectRatio }}
               >
                 <img
                   src={photo.src}
                   alt={l[photo.captionKey]}
                   loading="lazy"
-                  className="h-full w-full object-cover object-center transition-transform duration-[1.4s] ease-out group-hover:scale-105"
+                  className="h-full w-full object-contain object-center transition-transform duration-[1.4s] ease-out group-hover:scale-[1.02]"
                 />
                 <div
                   className="absolute inset-0 mix-blend-multiply transition-opacity duration-700 group-hover:opacity-0"
