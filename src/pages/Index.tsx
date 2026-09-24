@@ -64,7 +64,7 @@ const Index = () => {
       <PeopleSection t={t} />
       <SustainabilitySection t={t} />
       <ProcessSection t={t} />
-       <AfricaNegotiationsSection />
+       <AfricaNegotiationsSection lang={lang} />
       <PartnersSection t={t} />
       <ClientsSection lang={lang} />
       <InsightsSection t={t} lang={lang} />
