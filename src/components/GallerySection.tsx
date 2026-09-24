@@ -59,8 +59,7 @@ const GallerySection = ({ lang = "en" }: { lang?: string }) => {
                   className="h-full w-full object-contain object-center transition-transform duration-[1.4s] ease-out group-hover:scale-[1.02]"
                 />
                 <div
-                  className="absolute inset-0 mix-blend-multiply transition-opacity duration-700 group-hover:opacity-0"
-                  style={{ background: "#3B006F" }}
+                  className="absolute inset-0 bg-[hsl(232,25%,56%)] mix-blend-color transition-opacity duration-700 group-hover:opacity-0"
                 />
               </div>
 
