@@ -14,6 +14,7 @@ import PeopleSection from "@/components/PeopleSection";
 import SustainabilitySection from "@/components/SustainabilitySection";
 import ProcessSection from "@/components/ProcessSection";
 import AfricaNegotiationsSection from "@/components/AfricaNegotiationsSection";
+import GallerySection from "@/components/GallerySection";
 import PartnersSection from "@/components/PartnersSection";
 import ClientsSection from "@/components/ClientsSection";
 import PartnersAboutSection from "@/components/PartnersAboutSection";
@@ -65,6 +66,7 @@ const Index = () => {
       <SustainabilitySection t={t} />
       <ProcessSection t={t} />
        <AfricaNegotiationsSection lang={lang} />
+       <GallerySection lang={lang} />
       <PartnersSection t={t} />
       <ClientsSection lang={lang} />
       <InsightsSection t={t} lang={lang} />
