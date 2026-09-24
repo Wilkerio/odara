@@ -14,6 +14,7 @@ import PeopleSection from "@/components/PeopleSection";
 import SustainabilitySection from "@/components/SustainabilitySection";
 import ProcessSection from "@/components/ProcessSection";
 import AfricaNegotiationsSection from "@/components/AfricaNegotiationsSection";
+import GallerySection from "@/components/GallerySection";
 import PartnersSection from "@/components/PartnersSection";
 import ClientsSection from "@/components/ClientsSection";
 import PartnersAboutSection from "@/components/PartnersAboutSection";
