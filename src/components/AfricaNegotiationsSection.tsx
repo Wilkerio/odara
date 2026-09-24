@@ -43,7 +43,15 @@ const negotiations = [
   },
 ];
 
-const AfricaNegotiationsSection = () => {
+const L: Record<string, any> = {
+  en: { k: "Africa", t: "Concluded Negotiations", s: "Fastest growing companies in Africa", r: "FT Ranking 2026", c: { Kenya: "Kenya", Egypt: "Egypt", Nigeria: "Nigeria", "South Africa": "South Africa" } },
+  pt: { k: "África", t: "Negociações Concluídas", s: "Empresas que mais crescem na África", r: "Ranking FT 2026", c: { Kenya: "Quênia", Egypt: "Egito", Nigeria: "Nigéria", "South Africa": "África do Sul" } },
+  fr: { k: "Afrique", t: "Négociations Conclues", s: "Entreprises à la plus forte croissance en Afrique", r: "Classement FT 2026", c: { Kenya: "Kenya", Egypt: "Égypte", Nigeria: "Nigeria", "South Africa": "Afrique du Sud" } },
+  es: { k: "África", t: "Negociaciones Concluidas", s: "Empresas de más rápido crecimiento en África", r: "Ranking FT 2026", c: { Kenya: "Kenia", Egypt: "Egipto", Nigeria: "Nigeria", "South Africa": "Sudáfrica" } },
+};
+
+const AfricaNegotiationsSection = ({ lang = "en" }: { lang?: string }) => {
+  const l = L[lang] || L.en;
   return (
     <section
       id="concluded-negotiations"
@@ -54,13 +62,13 @@ const AfricaNegotiationsSection = () => {
         <div className="mb-12 max-w-3xl md:mb-16">
           <p className="mb-5 flex items-center gap-4 text-[0.65rem] font-semibold uppercase tracking-[0.35em] text-primary">
             <span className="h-px w-10 flex-shrink-0 bg-primary" />
-            Africa
+            {l.k}
           </p>
           <h2 className="font-['Cormorant_Garamond',serif] text-4xl font-light leading-tight md:text-6xl">
-            Concluded Negotiations
+            {l.t}
           </h2>
           <p className="mt-5 text-sm font-light text-muted-foreground md:text-base">
-            Fastest growing companies in Africa
+            {l.s}
           </p>
         </div>
 
@@ -85,14 +93,14 @@ const AfricaNegotiationsSection = () => {
 
               <div className="flex flex-1 flex-col pt-6">
                 <span className="mb-3 text-[0.62rem] font-semibold uppercase tracking-[0.18em] text-primary">
-                  {item.country}
+                  {l.c[item.country] || item.country}
                 </span>
                 <h3 className="font-['Cormorant_Garamond',serif] text-2xl font-light leading-tight">
                   {item.company}
                 </h3>
                 <div className="mt-auto pt-8">
                   <p className="text-[0.65rem] uppercase tracking-[0.12em] text-muted-foreground">
-                    FT Ranking 2026 · {item.rank}
+                    {l.r} · {item.rank}
                   </p>
                   <p className="mt-2 font-['Cormorant_Garamond',serif] text-4xl font-light text-primary">
                     {item.growth}
